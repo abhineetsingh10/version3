@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Student Milestone Progress Matrix</title>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+
+<style>
+body {
+  font-family: system-ui;
+  background: #f4f6fa;
+  margin: 0;
+  padding: 30px;
+  color: #1E2F57;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 25px;
+}
+
+.filters {
+  background: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  margin-bottom: 15px;
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+select {
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid #d1d5db;
+}
+
+.table-container {
+  overflow-x: auto;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  padding: 15px;
+}
+
+.matrix-table {
+  border-collapse: collapse;
+  width: max-content;
+  min-width: 100%;
+  font-size: 13px;
+}
+
+.matrix-table th,
+.matrix-table td {
+  border: 1px solid #e5e7eb;
+  padding: 6px 8px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.matrix-table thead {
+  background: #F1F4FA;
+}
+
+.student-name {
+  text-align: left;
+  font-weight: 600;
+}
+
+.pill {
+  padding: 3px 8px;
+  border-radius: 12px;
+  font-size: 11px;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.transition {
+  background: #22C55E; /* green */
+  color: white;
+}
+
+.no-change {
+  background: #E5E7EB;
+  color: #374151;
+}
+
+</style>
+</head>
+
+<body>
+
+<h1>Student Milestone Progress Matrix</h1>
+
+<div class="filters">
+  <div>
+    <label>District:</label>
+    <select id="districtFilter"></select>
+  </div>
+  <div>
+    <label>Mandal:</label>
+    <select id="mandalFilter"></select>
+  </div>
+  <div>
+    <label>School:</label>
+    <select id="schoolFilter"></select>
+  </div>
+</div>
+
+<div class="filters">
+  <div>
+    <label>Sort By:</label>
+    <select id="sortBy">
+      <option value="Grade">Grade</option>
+      <option value="Total_Days">Total Days</option>
+      <option value="Start_Milestone">Start Milestone</option>
+      <option value="Current_Milestone">Current Milestone</option>
+    </select>
+  </div>
+
+  <div>
+    <label>Order:</label>
+    <select id="sortOrder">
+      <option value="asc">Ascending</option>
+      <option value="desc">Descending</option>
+    </select>
+  </div>
+</div>
+
+<div class="table-container">
+  <table class="matrix-table">
+    <thead></thead>
+    <tbody></tbody>
+  </table>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
