@@ -10,9 +10,9 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 1016114383,
@@ -25,9 +25,9 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 1016114383,
@@ -40,9 +40,9 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 1016114383,
@@ -55,9 +55,54 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
+  },
+  {
+    "VirtualId": 1016114383,
+    "Date": "2026-02-17",
+    "Student": "CHIRUPAKA YASHWANTH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 7,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m5"
+  },
+  {
+    "VirtualId": 1016114383,
+    "Date": "2026-02-18",
+    "Student": "CHIRUPAKA YASHWANTH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m5",
+    "Prev_Level": "m4",
+    "Movement": "m4 → m5",
+    "Total_Days": 7,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m5"
+  },
+  {
+    "VirtualId": 1016114383,
+    "Date": "2026-02-19",
+    "Student": "CHIRUPAKA YASHWANTH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m5",
+    "Prev_Level": "m5",
+    "Movement": "m5",
+    "Total_Days": 7,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 1130677093,
@@ -70,7 +115,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -85,7 +130,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -100,7 +145,7 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -115,7 +160,22 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 1130677093,
+    "Date": "2026-02-18",
+    "Student": "PENDELA CHANVI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -130,7 +190,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "m2",
     "Current_Milestone": "m4"
   },
@@ -145,7 +205,7 @@
     "Day_Level": "m4",
     "Prev_Level": "m3",
     "Movement": "m3 → m4",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "m2",
     "Current_Milestone": "m4"
   },
@@ -160,7 +220,37 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 3,
+    "Total_Days": 5,
+    "Start_Milestone": "m2",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 1161306417,
+    "Date": "2026-02-17",
+    "Student": "MOHAMMED ZISHAN",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 5,
+    "Start_Milestone": "m2",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 1161306417,
+    "Date": "2026-02-18",
+    "Student": "MOHAMMED ZISHAN",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 5,
     "Start_Milestone": "m2",
     "Current_Milestone": "m4"
   },
@@ -175,7 +265,22 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 1,
+    "Total_Days": 2,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 1415399289,
+    "Date": "2026-02-17",
+    "Student": "MASKURA RAMCHARAN",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 2,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -190,9 +295,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L2"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 1417935567,
@@ -205,9 +310,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L2"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 1417935567,
@@ -220,9 +325,9 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L2"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 1417935567,
@@ -235,9 +340,9 @@
     "Day_Level": "F2_L1",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3 → F2_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L2"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 1417935567,
@@ -250,9 +355,39 @@
     "Day_Level": "F2_L2",
     "Prev_Level": "F2_L1",
     "Movement": "F2_L1 → F2_L2",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L2"
+    "Current_Milestone": "F3_L1"
+  },
+  {
+    "VirtualId": 1417935567,
+    "Date": "2026-02-17",
+    "Student": "RAAPAKA REYANSH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F2_L3",
+    "Prev_Level": "F2_L2",
+    "Movement": "F2_L2 → F2_L3",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F3_L1"
+  },
+  {
+    "VirtualId": 1417935567,
+    "Date": "2026-02-18",
+    "Student": "RAAPAKA REYANSH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F2_L3",
+    "Prev_Level": "F2_L3",
+    "Movement": "F2_L3",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 1561014311,
@@ -265,9 +400,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 1561014311,
@@ -280,9 +415,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 1561014311,
@@ -295,9 +430,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 1561014311,
+    "Date": "2026-02-17",
+    "Student": "DASARI MOKSHIT",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 1561014311,
+    "Date": "2026-02-18",
+    "Student": "DASARI MOKSHIT",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L1",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 1921357899,
@@ -310,9 +475,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 1921357899,
@@ -325,9 +490,24 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 1921357899,
+    "Date": "2026-02-18",
+    "Student": "MARGAM BHANUPRASAD",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 2066781614,
@@ -340,7 +520,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -355,7 +535,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -370,7 +550,22 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 2066781614,
+    "Date": "2026-02-17",
+    "Student": "PALLAPU JASWITHA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -385,9 +580,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 2139837702,
@@ -400,9 +595,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 2139837702,
@@ -415,9 +610,9 @@
     "Day_Level": "F2_L1",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F2_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 2139837702,
@@ -430,9 +625,39 @@
     "Day_Level": "F2_L3",
     "Prev_Level": "F2_L1",
     "Movement": "F2_L1 → F2_L3",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
+  },
+  {
+    "VirtualId": 2139837702,
+    "Date": "2026-02-17",
+    "Student": "GODUGU VAISHNAVI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F3_L1",
+    "Prev_Level": "F2_L3",
+    "Movement": "F2_L3 → F3_L1",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F3_L1"
+  },
+  {
+    "VirtualId": 2139837702,
+    "Date": "2026-02-19",
+    "Student": "GODUGU VAISHNAVI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F3_L1",
+    "Prev_Level": "F3_L1",
+    "Movement": "F3_L1",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 2143643189,
@@ -445,7 +670,22 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 2143643189,
+    "Date": "2026-02-17",
+    "Student": "MOTHE RIYAN",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 3,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -460,9 +700,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 2171995235,
@@ -475,9 +715,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 2171995235,
@@ -490,9 +730,24 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 2171995235,
+    "Date": "2026-02-17",
+    "Student": "SURA SARIYU",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 2176139873,
@@ -505,9 +760,9 @@
     "Day_Level": "m1",
     "Prev_Level": "m1",
     "Movement": "m1",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "F2_L1"
+    "Current_Milestone": "m1"
   },
   {
     "VirtualId": 2176139873,
@@ -520,9 +775,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "m1",
     "Movement": "m1 → F1_L1",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "F2_L1"
+    "Current_Milestone": "m1"
   },
   {
     "VirtualId": 2176139873,
@@ -535,9 +790,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "F2_L1"
+    "Current_Milestone": "m1"
   },
   {
     "VirtualId": 2176139873,
@@ -550,9 +805,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "F2_L1"
+    "Current_Milestone": "m1"
   },
   {
     "VirtualId": 2176139873,
@@ -565,9 +820,9 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "F2_L1"
+    "Current_Milestone": "m1"
   },
   {
     "VirtualId": 2176139873,
@@ -580,9 +835,39 @@
     "Day_Level": "F2_L1",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3 → F2_L1",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "F2_L1"
+    "Current_Milestone": "m1"
+  },
+  {
+    "VirtualId": 2176139873,
+    "Date": "2026-02-17",
+    "Student": "HIMANSHU RAJ",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1",
+    "Total_Days": 8,
+    "Start_Milestone": "m1",
+    "Current_Milestone": "m1"
+  },
+  {
+    "VirtualId": 2176139873,
+    "Date": "2026-02-18",
+    "Student": "HIMANSHU RAJ",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F2_L2",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1 → F2_L2",
+    "Total_Days": 8,
+    "Start_Milestone": "m1",
+    "Current_Milestone": "m1"
   },
   {
     "VirtualId": 2194215502,
@@ -595,9 +880,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 2194215502,
@@ -610,9 +895,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 2194215502,
@@ -625,9 +910,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 2194215502,
@@ -640,9 +925,54 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 2194215502,
+    "Date": "2026-02-17",
+    "Student": "VARA PRASAD SANDANAGIRI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 2194215502,
+    "Date": "2026-02-18",
+    "Student": "VARA PRASAD SANDANAGIRI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 2194215502,
+    "Date": "2026-02-19",
+    "Student": "VARA PRASAD SANDANAGIRI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 2230235458,
@@ -655,7 +985,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m5"
   },
@@ -670,7 +1000,7 @@
     "Day_Level": "m4",
     "Prev_Level": "m3",
     "Movement": "m3 → m4",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m5"
   },
@@ -685,7 +1015,7 @@
     "Day_Level": "m5",
     "Prev_Level": "m4",
     "Movement": "m4 → m5",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m5"
   },
@@ -700,7 +1030,37 @@
     "Day_Level": "m5",
     "Prev_Level": "m5",
     "Movement": "m5",
-    "Total_Days": 4,
+    "Total_Days": 6,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m5"
+  },
+  {
+    "VirtualId": 2230235458,
+    "Date": "2026-02-17",
+    "Student": "ANISHETTI MANISHA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "m5",
+    "Prev_Level": "m5",
+    "Movement": "m5",
+    "Total_Days": 6,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m5"
+  },
+  {
+    "VirtualId": 2230235458,
+    "Date": "2026-02-18",
+    "Student": "ANISHETTI MANISHA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "m5",
+    "Prev_Level": "m5",
+    "Movement": "m5",
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m5"
   },
@@ -715,9 +1075,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 3,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 2317289822,
@@ -730,9 +1090,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 3,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 2317289822,
@@ -745,9 +1105,54 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 3,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 2317289822,
+    "Date": "2026-02-17",
+    "Student": "RADHIKA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 2317289822,
+    "Date": "2026-02-18",
+    "Student": "RADHIKA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L1",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 2317289822,
+    "Date": "2026-02-19",
+    "Student": "RADHIKA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 2404792394,
@@ -775,9 +1180,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 2424420889,
@@ -790,9 +1195,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 2424420889,
@@ -805,9 +1210,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 2424420889,
@@ -820,9 +1225,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 2424420889,
+    "Date": "2026-02-17",
+    "Student": "T. RITHIKA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 2424420889,
+    "Date": "2026-02-18",
+    "Student": "T. RITHIKA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 2453015709,
@@ -895,9 +1330,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 2462925702,
@@ -910,9 +1345,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 2462925702,
+    "Date": "2026-02-17",
+    "Student": "BESOLU RASHVANTH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 2462925702,
+    "Date": "2026-02-18",
+    "Student": "BESOLU RASHVANTH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 2472378397,
@@ -925,7 +1390,7 @@
     "Day_Level": "m2",
     "Prev_Level": "m2",
     "Movement": "m2",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "m2",
     "Current_Milestone": "m5"
   },
@@ -940,7 +1405,7 @@
     "Day_Level": "m4",
     "Prev_Level": "m2",
     "Movement": "m2 → m4",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "m2",
     "Current_Milestone": "m5"
   },
@@ -955,7 +1420,7 @@
     "Day_Level": "m5",
     "Prev_Level": "m4",
     "Movement": "m4 → m5",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "m2",
     "Current_Milestone": "m5"
   },
@@ -970,7 +1435,22 @@
     "Day_Level": "m5",
     "Prev_Level": "m5",
     "Movement": "m5",
-    "Total_Days": 4,
+    "Total_Days": 5,
+    "Start_Milestone": "m2",
+    "Current_Milestone": "m5"
+  },
+  {
+    "VirtualId": 2472378397,
+    "Date": "2026-02-18",
+    "Student": "INJAPELLY ANVITHA SRI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "m5",
+    "Prev_Level": "m5",
+    "Movement": "m5",
+    "Total_Days": 5,
     "Start_Milestone": "m2",
     "Current_Milestone": "m5"
   },
@@ -985,7 +1465,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -1000,7 +1480,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -1015,7 +1495,37 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 2492452808,
+    "Date": "2026-02-17",
+    "Student": "BITLA NISHAANTH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 2492452808,
+    "Date": "2026-02-18",
+    "Student": "BITLA NISHAANTH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -1030,9 +1540,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L2"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 2505886561,
@@ -1045,9 +1555,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L2"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 2505886561,
@@ -1060,9 +1570,9 @@
     "Day_Level": "F2_L1",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F2_L1",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L2"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 2505886561,
@@ -1075,9 +1585,9 @@
     "Day_Level": "F2_L1",
     "Prev_Level": "F2_L1",
     "Movement": "F2_L1",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L2"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 2505886561,
@@ -1090,9 +1600,9 @@
     "Day_Level": "F2_L1",
     "Prev_Level": "F2_L1",
     "Movement": "F2_L1",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L2"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 2505886561,
@@ -1105,9 +1615,39 @@
     "Day_Level": "F2_L2",
     "Prev_Level": "F2_L1",
     "Movement": "F2_L1 → F2_L2",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L2"
+    "Current_Milestone": "F3_L1"
+  },
+  {
+    "VirtualId": 2505886561,
+    "Date": "2026-02-17",
+    "Student": "VANKADI CHARAN",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F2_L3",
+    "Prev_Level": "F2_L2",
+    "Movement": "F2_L2 → F2_L3",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F3_L1"
+  },
+  {
+    "VirtualId": 2505886561,
+    "Date": "2026-02-18",
+    "Student": "VANKADI CHARAN",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F3_L1",
+    "Prev_Level": "F2_L3",
+    "Movement": "F2_L3 → F3_L1",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 2728176018,
@@ -1120,9 +1660,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 2728176018,
@@ -1135,9 +1675,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 2728176018,
@@ -1150,9 +1690,24 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 2728176018,
+    "Date": "2026-02-17",
+    "Student": "MOHAMMED MUJTABA QURAISHI MUBASSHIR",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 2779944933,
@@ -1210,9 +1765,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 2995615295,
@@ -1225,9 +1780,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 2995615295,
+    "Date": "2026-02-17",
+    "Student": "RENIKUNTLA NEEHAL",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 2995615295,
+    "Date": "2026-02-18",
+    "Student": "RENIKUNTLA NEEHAL",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F2_L1",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 3009656228,
@@ -1240,9 +1825,39 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 1,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 3009656228,
+    "Date": "2026-02-17",
+    "Student": "SYED SHAHED",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 3009656228,
+    "Date": "2026-02-18",
+    "Student": "SYED SHAHED",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 3018649157,
@@ -1255,7 +1870,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -1270,7 +1885,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -1285,7 +1900,7 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -1300,7 +1915,37 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 3018649157,
+    "Date": "2026-02-17",
+    "Student": "DAKSHAYANI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 3018649157,
+    "Date": "2026-02-18",
+    "Student": "DAKSHAYANI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -1315,9 +1960,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 3070421588,
@@ -1330,9 +1975,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 3070421588,
@@ -1345,9 +1990,9 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 3070421588,
@@ -1360,9 +2005,54 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F3_L1"
+  },
+  {
+    "VirtualId": 3070421588,
+    "Date": "2026-02-17",
+    "Student": "RAMAVATH RAKESH NAYAK",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F2_L2",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L2",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F3_L1"
+  },
+  {
+    "VirtualId": 3070421588,
+    "Date": "2026-02-18",
+    "Student": "RAMAVATH RAKESH NAYAK",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F2_L3",
+    "Prev_Level": "F2_L2",
+    "Movement": "F2_L2 → F2_L3",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F3_L1"
+  },
+  {
+    "VirtualId": 3070421588,
+    "Date": "2026-02-19",
+    "Student": "RAMAVATH RAKESH NAYAK",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F3_L1",
+    "Prev_Level": "F2_L3",
+    "Movement": "F2_L3 → F3_L1",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 3125154923,
@@ -1375,9 +2065,9 @@
     "Day_Level": "m1",
     "Prev_Level": "m1",
     "Movement": "m1",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 3125154923,
@@ -1390,9 +2080,9 @@
     "Day_Level": "m3",
     "Prev_Level": "m1",
     "Movement": "m1 → m3",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 3125154923,
@@ -1405,9 +2095,9 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 3125154923,
@@ -1420,9 +2110,9 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 3125154923,
@@ -1435,9 +2125,9 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 3125154923,
@@ -1450,9 +2140,39 @@
     "Day_Level": "m4",
     "Prev_Level": "m3",
     "Movement": "m3 → m4",
-    "Total_Days": 6,
+    "Total_Days": 8,
     "Start_Milestone": "m1",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
+  },
+  {
+    "VirtualId": 3125154923,
+    "Date": "2026-02-17",
+    "Student": "MITTAPALLY SAIVARSHITH",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "m5",
+    "Prev_Level": "m4",
+    "Movement": "m4 → m5",
+    "Total_Days": 8,
+    "Start_Milestone": "m1",
+    "Current_Milestone": "m5"
+  },
+  {
+    "VirtualId": 3125154923,
+    "Date": "2026-02-18",
+    "Student": "MITTAPALLY SAIVARSHITH",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "m5",
+    "Prev_Level": "m5",
+    "Movement": "m5",
+    "Total_Days": 8,
+    "Start_Milestone": "m1",
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 3146321310,
@@ -1465,7 +2185,7 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -1480,7 +2200,7 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -1495,7 +2215,7 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -1510,7 +2230,37 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 3146321310,
+    "Date": "2026-02-17",
+    "Student": "RAMULA PAVAN SAI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 3146321310,
+    "Date": "2026-02-18",
+    "Student": "RAMULA PAVAN SAI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -1540,7 +2290,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -1555,7 +2305,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -1570,7 +2320,22 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 3275390694,
+    "Date": "2026-02-18",
+    "Student": "MANSHA MAJHI",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -1585,9 +2350,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 3279325907,
@@ -1600,9 +2365,39 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 3279325907,
+    "Date": "2026-02-17",
+    "Student": "PALAKURTHI BHAVYA SREE",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 3279325907,
+    "Date": "2026-02-18",
+    "Student": "PALAKURTHI BHAVYA SREE",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 3384842131,
@@ -1615,9 +2410,9 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 3384842131,
@@ -1630,9 +2425,9 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 3384842131,
@@ -1645,9 +2440,9 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 3384842131,
@@ -1660,9 +2455,39 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m4"
+    "Current_Milestone": "m5"
+  },
+  {
+    "VirtualId": 3384842131,
+    "Date": "2026-02-17",
+    "Student": "ABDUL KHADAR",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 6,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m5"
+  },
+  {
+    "VirtualId": 3384842131,
+    "Date": "2026-02-18",
+    "Student": "ABDUL KHADAR",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "m5",
+    "Prev_Level": "m4",
+    "Movement": "m4 → m5",
+    "Total_Days": 6,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m5"
   },
   {
     "VirtualId": 3462507406,
@@ -1705,9 +2530,39 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "m1"
+  },
+  {
+    "VirtualId": 3470910287,
+    "Date": "2026-02-17",
+    "Student": "THALARI LUCKY",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "m1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → m1",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "m1"
+  },
+  {
+    "VirtualId": 3470910287,
+    "Date": "2026-02-18",
+    "Student": "THALARI LUCKY",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "m1",
+    "Movement": "m1 → F1_L1",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "m1"
   },
   {
     "VirtualId": 3471739381,
@@ -1720,7 +2575,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -1735,7 +2590,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -1750,7 +2605,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -1765,7 +2620,37 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 3471739381,
+    "Date": "2026-02-17",
+    "Student": "S CHARAN RAJ",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 3471739381,
+    "Date": "2026-02-18",
+    "Student": "S CHARAN RAJ",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 7,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -1795,7 +2680,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -1810,7 +2695,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -1825,7 +2710,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -1840,7 +2725,52 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 3636791611,
+    "Date": "2026-02-17",
+    "Student": "VADDE VIGNESH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 3636791611,
+    "Date": "2026-02-18",
+    "Student": "VADDE VIGNESH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L1",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 3636791611,
+    "Date": "2026-02-19",
+    "Student": "VADDE VIGNESH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 8,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -1855,9 +2785,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 3640774627,
@@ -1870,9 +2800,24 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 3640774627,
+    "Date": "2026-02-18",
+    "Student": "AYESHA SIDDIQUA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 3708513647,
@@ -1886,7 +2831,8 @@
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
     "Total_Days": 1,
-    "Start_Milestone": "B"
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 3721509580,
@@ -1899,9 +2845,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 3721509580,
@@ -1914,9 +2860,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 3721509580,
@@ -1929,9 +2875,39 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 3721509580,
+    "Date": "2026-02-17",
+    "Student": "L ANKITHA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 3721509580,
+    "Date": "2026-02-18",
+    "Student": "L ANKITHA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 3725856807,
@@ -1944,7 +2920,37 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 1,
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 3725856807,
+    "Date": "2026-02-17",
+    "Student": "KANDHI VYSHNAVI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 3725856807,
+    "Date": "2026-02-18",
+    "Student": "KANDHI VYSHNAVI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 3,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -1961,7 +2967,7 @@
     "Movement": "F1_L1",
     "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 3815950129,
@@ -1976,7 +2982,7 @@
     "Movement": "F1_L1 → F1_L2",
     "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 3815950129,
@@ -1991,7 +2997,7 @@
     "Movement": "F1_L2 → F1_L3",
     "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 3815950129,
@@ -2006,7 +3012,7 @@
     "Movement": "F1_L3 → F2_L3",
     "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 3897568736,
@@ -2021,7 +3027,7 @@
     "Movement": "F1_L1",
     "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 3897568736,
@@ -2036,7 +3042,7 @@
     "Movement": "F1_L1 → F1_L3",
     "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 3897568736,
@@ -2051,7 +3057,7 @@
     "Movement": "F1_L3 → F2_L3",
     "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 3897568736,
@@ -2066,7 +3072,7 @@
     "Movement": "F2_L3",
     "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L3"
+    "Current_Milestone": "F3_L1"
   },
   {
     "VirtualId": 4012047966,
@@ -2079,9 +3085,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 4012047966,
@@ -2094,9 +3100,24 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 4012047966,
+    "Date": "2026-02-17",
+    "Student": "BEGARI HARI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 4064242335,
@@ -2169,9 +3190,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 1,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 4070508569,
+    "Date": "2026-02-17",
+    "Student": "KAMBLE RAHUL",
+    "Grade": 4,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 4070508569,
+    "Date": "2026-02-18",
+    "Student": "KAMBLE RAHUL",
+    "Grade": 4,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 4134886271,
@@ -2184,9 +3235,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 4134886271,
@@ -2199,9 +3250,39 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L3",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 4134886271,
+    "Date": "2026-02-17",
+    "Student": "TUMMAKUMMA RANVEER",
+    "Grade": 4,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L1",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 4134886271,
+    "Date": "2026-02-18",
+    "Student": "TUMMAKUMMA RANVEER",
+    "Grade": 4,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 4138521023,
@@ -2244,9 +3325,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 4160159775,
@@ -2256,6 +3337,51 @@
     "District": "HYDERABAD",
     "Mandal": "MAREDPALLY",
     "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 4160159775,
+    "Date": "2026-02-17",
+    "Student": "MARRIKUKU THANVITHA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 4160159775,
+    "Date": "2026-02-18",
+    "Student": "MARRIKUKU THANVITHA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 4212178756,
+    "Date": "2026-02-18",
+    "Student": "PADALA ANJALI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
@@ -2274,7 +3400,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -2289,9 +3415,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 4224450370,
+    "Date": "2026-02-17",
+    "Student": "PALLAPU BHARGAV",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 4263748962,
+    "Date": "2026-02-17",
+    "Student": "BOLLI RITHIKA",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 2,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
   },
   {
     "VirtualId": 4275505552,
@@ -2334,9 +3490,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 4481792286,
@@ -2349,9 +3505,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 4481792286,
@@ -2364,9 +3520,24 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 4481792286,
+    "Date": "2026-02-17",
+    "Student": "PULI MAHISRI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 4487230804,
@@ -2379,9 +3550,24 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 1,
+    "Total_Days": 2,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 4487230804,
+    "Date": "2026-02-17",
+    "Student": "GURUMILLA BAHUJAN",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 2,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 4513719178,
@@ -2394,9 +3580,39 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 1,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 4513719178,
+    "Date": "2026-02-17",
+    "Student": "MOHAMMED FAIZAANMOINUDDIN",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 4513719178,
+    "Date": "2026-02-18",
+    "Student": "MOHAMMED FAIZAANMOINUDDIN",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L1",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 4522626444,
@@ -2409,9 +3625,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L3"
   },
   {
     "VirtualId": 4522626444,
@@ -2424,9 +3640,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L3"
   },
   {
     "VirtualId": 4522626444,
@@ -2439,9 +3655,39 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L3"
+  },
+  {
+    "VirtualId": 4522626444,
+    "Date": "2026-02-17",
+    "Student": "KAKARALA PAVAN DEEP",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F2_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L3",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L3"
+  },
+  {
+    "VirtualId": 4522626444,
+    "Date": "2026-02-18",
+    "Student": "KAKARALA PAVAN DEEP",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F2_L3",
+    "Prev_Level": "F2_L3",
+    "Movement": "F2_L3",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L3"
   },
   {
     "VirtualId": 4557175894,
@@ -2454,7 +3700,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -2469,7 +3715,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -2484,7 +3730,37 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 4557175894,
+    "Date": "2026-02-17",
+    "Student": "BOMMIDENI SRILASYA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 4557175894,
+    "Date": "2026-02-18",
+    "Student": "BOMMIDENI SRILASYA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -2499,9 +3775,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 4605360489,
@@ -2514,9 +3790,39 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 4605360489,
+    "Date": "2026-02-17",
+    "Student": "REKUNTA MANVIK VEER",
+    "Grade": 4,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 4605360489,
+    "Date": "2026-02-18",
+    "Student": "REKUNTA MANVIK VEER",
+    "Grade": 4,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 4614322514,
@@ -2529,9 +3835,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 4614322514,
@@ -2544,9 +3850,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 4614322514,
@@ -2559,9 +3865,39 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 4614322514,
+    "Date": "2026-02-17",
+    "Student": "KOTWAL NUPURANVITHA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L1",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 4614322514,
+    "Date": "2026-02-18",
+    "Student": "KOTWAL NUPURANVITHA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 4882313971,
@@ -2574,9 +3910,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 6,
+    "Total_Days": 9,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 4882313971,
@@ -2589,9 +3925,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 6,
+    "Total_Days": 9,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 4882313971,
@@ -2604,9 +3940,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 6,
+    "Total_Days": 9,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 4882313971,
@@ -2619,9 +3955,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 6,
+    "Total_Days": 9,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 4882313971,
@@ -2634,9 +3970,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 6,
+    "Total_Days": 9,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 4882313971,
@@ -2649,9 +3985,54 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 6,
+    "Total_Days": 9,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 4882313971,
+    "Date": "2026-02-17",
+    "Student": "NAVDEEP GAIKWAD",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 9,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 4882313971,
+    "Date": "2026-02-18",
+    "Student": "NAVDEEP GAIKWAD",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 9,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 4882313971,
+    "Date": "2026-02-19",
+    "Student": "NAVDEEP GAIKWAD",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 9,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 4937777954,
@@ -2664,7 +4045,7 @@
     "Day_Level": "m1",
     "Prev_Level": "m1",
     "Movement": "m1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
     "Current_Milestone": "m4"
   },
@@ -2679,7 +4060,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m1",
     "Movement": "m1 → m3",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
     "Current_Milestone": "m4"
   },
@@ -2694,7 +4075,22 @@
     "Day_Level": "m4",
     "Prev_Level": "m3",
     "Movement": "m3 → m4",
-    "Total_Days": 3,
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 4937777954,
+    "Date": "2026-02-17",
+    "Student": "NIMMALA NITHYA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 4,
     "Start_Milestone": "B",
     "Current_Milestone": "m4"
   },
@@ -2709,7 +4105,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -2724,7 +4120,7 @@
     "Day_Level": "m4",
     "Prev_Level": "m3",
     "Movement": "m3 → m4",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -2739,7 +4135,37 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 4,
+    "Total_Days": 6,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 5068919357,
+    "Date": "2026-02-17",
+    "Student": "KOLUGURU THANUSH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 6,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 5068919357,
+    "Date": "2026-02-18",
+    "Student": "KOLUGURU THANUSH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -2754,9 +4180,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 5316725368,
@@ -2769,9 +4195,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 5316725368,
+    "Date": "2026-02-17",
+    "Student": "SYEDA SIMRA FATIMA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 5316725368,
+    "Date": "2026-02-18",
+    "Student": "SYEDA SIMRA FATIMA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 5364077404,
@@ -2784,9 +4240,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 5364077404,
@@ -2799,9 +4255,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 5364077404,
@@ -2814,9 +4270,9 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 5364077404,
@@ -2829,9 +4285,9 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 5364077404,
@@ -2844,9 +4300,39 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
+  },
+  {
+    "VirtualId": 5364077404,
+    "Date": "2026-02-17",
+    "Student": "KAGITHA PRANAY",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F1_L2",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L2"
+  },
+  {
+    "VirtualId": 5364077404,
+    "Date": "2026-02-19",
+    "Student": "KAGITHA PRANAY",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F2_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F2_L2",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 5399193167,
@@ -2859,9 +4345,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L1"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 5399193167,
@@ -2874,9 +4360,9 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L3",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L1"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 5399193167,
@@ -2889,9 +4375,9 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L1"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 5399193167,
@@ -2904,9 +4390,9 @@
     "Day_Level": "F2_L1",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3 → F2_L1",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L1"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 5399193167,
@@ -2919,9 +4405,54 @@
     "Day_Level": "F2_L1",
     "Prev_Level": "F2_L1",
     "Movement": "F2_L1",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F2_L1"
+    "Current_Milestone": "F2_L2"
+  },
+  {
+    "VirtualId": 5399193167,
+    "Date": "2026-02-17",
+    "Student": "SUNKARA RITHIL",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F2_L2",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1 → F2_L2",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L2"
+  },
+  {
+    "VirtualId": 5399193167,
+    "Date": "2026-02-18",
+    "Student": "SUNKARA RITHIL",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F2_L2",
+    "Prev_Level": "F2_L2",
+    "Movement": "F2_L2",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L2"
+  },
+  {
+    "VirtualId": 5399193167,
+    "Date": "2026-02-19",
+    "Student": "SUNKARA RITHIL",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F2_L2",
+    "Prev_Level": "F2_L2",
+    "Movement": "F2_L2",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 5415057195,
@@ -2934,9 +4465,9 @@
     "Day_Level": "m2",
     "Prev_Level": "m2",
     "Movement": "m2",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "m2",
-    "Current_Milestone": "m2"
+    "Current_Milestone": "m4"
   },
   {
     "VirtualId": 5415057195,
@@ -2949,9 +4480,9 @@
     "Day_Level": "m2",
     "Prev_Level": "m2",
     "Movement": "m2",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "m2",
-    "Current_Milestone": "m2"
+    "Current_Milestone": "m4"
   },
   {
     "VirtualId": 5415057195,
@@ -2964,9 +4495,54 @@
     "Day_Level": "m2",
     "Prev_Level": "m2",
     "Movement": "m2",
-    "Total_Days": 4,
+    "Total_Days": 7,
     "Start_Milestone": "m2",
-    "Current_Milestone": "m2"
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 5415057195,
+    "Date": "2026-02-17",
+    "Student": "AMBATI HANSIKA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m4",
+    "Prev_Level": "m2",
+    "Movement": "m2 → m4",
+    "Total_Days": 7,
+    "Start_Milestone": "m2",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 5415057195,
+    "Date": "2026-02-18",
+    "Student": "AMBATI HANSIKA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 7,
+    "Start_Milestone": "m2",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 5415057195,
+    "Date": "2026-02-19",
+    "Student": "AMBATI HANSIKA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 7,
+    "Start_Milestone": "m2",
+    "Current_Milestone": "m4"
   },
   {
     "VirtualId": 5443811941,
@@ -2979,7 +4555,7 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -2994,7 +4570,7 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -3009,7 +4585,37 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 5443811941,
+    "Date": "2026-02-17",
+    "Student": "LUCKY ARADHYA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 5443811941,
+    "Date": "2026-02-18",
+    "Student": "LUCKY ARADHYA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -3054,9 +4660,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 5689031890,
@@ -3069,9 +4675,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 5689031890,
@@ -3084,9 +4690,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 5689031890,
@@ -3099,9 +4705,39 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 5689031890,
+    "Date": "2026-02-17",
+    "Student": "DHARAVATH MEGHANA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 5689031890,
+    "Date": "2026-02-18",
+    "Student": "DHARAVATH MEGHANA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 5702821170,
@@ -3114,9 +4750,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 5702821170,
@@ -3129,9 +4765,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 5702821170,
@@ -3144,9 +4780,24 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 5702821170,
+    "Date": "2026-02-17",
+    "Student": "SUNKARAPELLY KARTHIK",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 5710196595,
@@ -3174,9 +4825,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 5761515291,
@@ -3189,9 +4840,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 5761515291,
@@ -3204,9 +4855,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 5761515291,
@@ -3219,9 +4870,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 5761515291,
@@ -3234,9 +4885,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 5761515291,
+    "Date": "2026-02-17",
+    "Student": "SIMA KUMARI",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L1",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 5761515291,
+    "Date": "2026-02-18",
+    "Student": "SIMA KUMARI",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L3",
+    "Total_Days": 7,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 5784905859,
@@ -3279,7 +4960,7 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -3294,7 +4975,7 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -3309,7 +4990,7 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -3324,7 +5005,52 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 5,
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 5807806853,
+    "Date": "2026-02-17",
+    "Student": "NALEEKELA CHARAN",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 5807806853,
+    "Date": "2026-02-18",
+    "Student": "NALEEKELA CHARAN",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 5807806853,
+    "Date": "2026-02-19",
+    "Student": "NALEEKELA CHARAN",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 8,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -3339,7 +5065,7 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "m4",
     "Current_Milestone": "m6"
   },
@@ -3354,7 +5080,7 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "m4",
     "Current_Milestone": "m6"
   },
@@ -3369,7 +5095,7 @@
     "Day_Level": "m6",
     "Prev_Level": "m4",
     "Movement": "m4 → m6",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "m4",
     "Current_Milestone": "m6"
   },
@@ -3384,7 +5110,7 @@
     "Day_Level": "m6",
     "Prev_Level": "m6",
     "Movement": "m6",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "m4",
     "Current_Milestone": "m6"
   },
@@ -3399,7 +5125,37 @@
     "Day_Level": "m6",
     "Prev_Level": "m6",
     "Movement": "m6",
-    "Total_Days": 5,
+    "Total_Days": 7,
+    "Start_Milestone": "m4",
+    "Current_Milestone": "m6"
+  },
+  {
+    "VirtualId": 6228113600,
+    "Date": "2026-02-17",
+    "Student": "THRUPTHI MOHANTHI",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "m6",
+    "Prev_Level": "m6",
+    "Movement": "m6",
+    "Total_Days": 7,
+    "Start_Milestone": "m4",
+    "Current_Milestone": "m6"
+  },
+  {
+    "VirtualId": 6228113600,
+    "Date": "2026-02-18",
+    "Student": "THRUPTHI MOHANTHI",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "m6",
+    "Prev_Level": "m6",
+    "Movement": "m6",
+    "Total_Days": 7,
     "Start_Milestone": "m4",
     "Current_Milestone": "m6"
   },
@@ -3414,9 +5170,39 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 1,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 6445024536,
+    "Date": "2026-02-17",
+    "Student": "ORSU TEKADARI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 6445024536,
+    "Date": "2026-02-18",
+    "Student": "ORSU TEKADARI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 6461975179,
@@ -3429,7 +5215,37 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 1,
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 6461975179,
+    "Date": "2026-02-17",
+    "Student": "SYED SALMAN",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 6461975179,
+    "Date": "2026-02-18",
+    "Student": "SYED SALMAN",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 3,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -3489,7 +5305,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 6,
+    "Total_Days": 9,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -3504,7 +5320,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 6,
+    "Total_Days": 9,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -3519,7 +5335,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 6,
+    "Total_Days": 9,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -3534,7 +5350,7 @@
     "Day_Level": "m4",
     "Prev_Level": "m3",
     "Movement": "m3 → m4",
-    "Total_Days": 6,
+    "Total_Days": 9,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -3549,7 +5365,7 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 6,
+    "Total_Days": 9,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -3564,7 +5380,52 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 6,
+    "Total_Days": 9,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 6600673356,
+    "Date": "2026-02-17",
+    "Student": "VADLA NAVYA SRI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 9,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 6600673356,
+    "Date": "2026-02-18",
+    "Student": "VADLA NAVYA SRI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 9,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 6600673356,
+    "Date": "2026-02-19",
+    "Student": "VADLA NAVYA SRI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 9,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -3579,9 +5440,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 6658106399,
@@ -3594,9 +5455,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 6658106399,
@@ -3609,9 +5470,9 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 6658106399,
@@ -3624,9 +5485,39 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 6658106399,
+    "Date": "2026-02-17",
+    "Student": "MAHEEN FATIMA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L1",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 6658106399,
+    "Date": "2026-02-18",
+    "Student": "MAHEEN FATIMA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 6790079594,
@@ -3639,9 +5530,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L3"
   },
   {
     "VirtualId": 6790079594,
@@ -3654,9 +5545,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L3"
   },
   {
     "VirtualId": 6790079594,
@@ -3669,9 +5560,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L3"
   },
   {
     "VirtualId": 6790079594,
@@ -3684,9 +5575,39 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L3"
+  },
+  {
+    "VirtualId": 6790079594,
+    "Date": "2026-02-17",
+    "Student": "SHRISHTI YADAV",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F2_L2",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L2",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L3"
+  },
+  {
+    "VirtualId": 6790079594,
+    "Date": "2026-02-18",
+    "Student": "SHRISHTI YADAV",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F2_L3",
+    "Prev_Level": "F2_L2",
+    "Movement": "F2_L2 → F2_L3",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L3"
   },
   {
     "VirtualId": 6828352847,
@@ -3699,9 +5620,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 6828352847,
@@ -3714,9 +5635,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 6828352847,
@@ -3729,9 +5650,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 6828352847,
@@ -3744,9 +5665,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 6828352847,
+    "Date": "2026-02-17",
+    "Student": "KAPARTHI THRISHIKA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 6828352847,
+    "Date": "2026-02-18",
+    "Student": "KAPARTHI THRISHIKA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 6924144867,
@@ -3759,7 +5710,22 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 1,
+    "Total_Days": 2,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 6924144867,
+    "Date": "2026-02-18",
+    "Student": "UBIDI SHIVA GANESH",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 2,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -3774,9 +5740,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 6930750073,
@@ -3789,9 +5755,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 6930750073,
@@ -3804,9 +5770,54 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 6930750073,
+    "Date": "2026-02-17",
+    "Student": "N MANIKANTA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 6930750073,
+    "Date": "2026-02-18",
+    "Student": "N MANIKANTA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L3",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 6930750073,
+    "Date": "2026-02-19",
+    "Student": "N MANIKANTA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 7034049076,
@@ -3879,7 +5890,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -3894,7 +5905,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -3909,7 +5920,7 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -3924,7 +5935,22 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 7050775953,
+    "Date": "2026-02-18",
+    "Student": "PORANDLA ABHINAYA SREE",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -3939,7 +5965,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -3954,7 +5980,22 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 2,
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 7216448638,
+    "Date": "2026-02-17",
+    "Student": "NALLOLU NIKITHA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 3,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -4029,7 +6070,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -4044,7 +6085,7 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -4059,7 +6100,37 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 3,
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 7374393596,
+    "Date": "2026-02-18",
+    "Student": "DOMMATA LAKSHITH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 7374393596,
+    "Date": "2026-02-19",
+    "Student": "DOMMATA LAKSHITH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -4074,9 +6145,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 7397202688,
@@ -4089,9 +6160,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L2"
+  },
+  {
+    "VirtualId": 7397202688,
+    "Date": "2026-02-17",
+    "Student": "SHIVARATHRI VENNALA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L2"
+  },
+  {
+    "VirtualId": 7397202688,
+    "Date": "2026-02-18",
+    "Student": "SHIVARATHRI VENNALA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F2_L2",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L2",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 7397979973,
@@ -4104,7 +6205,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -4119,7 +6220,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -4134,7 +6235,37 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 3,
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 7397979973,
+    "Date": "2026-02-17",
+    "Student": "THANDA MANASWINI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 5,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 7397979973,
+    "Date": "2026-02-18",
+    "Student": "THANDA MANASWINI",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 5,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -4149,7 +6280,22 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 1,
+    "Total_Days": 2,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 7413541966,
+    "Date": "2026-02-17",
+    "Student": "PARMAGALLA DHANANJAY",
+    "Grade": 4,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 2,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -4164,7 +6310,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -4179,7 +6325,22 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 7451268569,
+    "Date": "2026-02-18",
+    "Student": "ONTEDDU MAHESHWARI",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 3,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -4194,9 +6355,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 7544499321,
@@ -4209,9 +6370,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 7544499321,
@@ -4224,9 +6385,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 7544499321,
+    "Date": "2026-02-17",
+    "Student": "SHABAD AALOK",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 7544499321,
+    "Date": "2026-02-18",
+    "Student": "SHABAD AALOK",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 7637003433,
@@ -4239,7 +6430,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m3"
   },
@@ -4254,7 +6445,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m3"
   },
@@ -4269,7 +6460,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m3"
   },
@@ -4284,7 +6475,37 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 4,
+    "Total_Days": 6,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m3"
+  },
+  {
+    "VirtualId": 7637003433,
+    "Date": "2026-02-17",
+    "Student": "SABA MAHEEN SULTANA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "m3",
+    "Prev_Level": "m3",
+    "Movement": "m3",
+    "Total_Days": 6,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m3"
+  },
+  {
+    "VirtualId": 7637003433,
+    "Date": "2026-02-18",
+    "Student": "SABA MAHEEN SULTANA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "m3",
+    "Prev_Level": "m3",
+    "Movement": "m3",
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m3"
   },
@@ -4299,7 +6520,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -4314,7 +6535,7 @@
     "Day_Level": "m4",
     "Prev_Level": "m3",
     "Movement": "m3 → m4",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -4329,7 +6550,37 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 3,
+    "Total_Days": 5,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 7660633713,
+    "Date": "2026-02-17",
+    "Student": "SHIVANYA BALAJI TELANGE",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 5,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 7660633713,
+    "Date": "2026-02-18",
+    "Student": "SHIVANYA BALAJI TELANGE",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 5,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -4344,9 +6595,9 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m5"
+    "Current_Milestone": "m6"
   },
   {
     "VirtualId": 7669678060,
@@ -4359,9 +6610,9 @@
     "Day_Level": "m4",
     "Prev_Level": "m3",
     "Movement": "m3 → m4",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m5"
+    "Current_Milestone": "m6"
   },
   {
     "VirtualId": 7669678060,
@@ -4374,9 +6625,9 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m5"
+    "Current_Milestone": "m6"
   },
   {
     "VirtualId": 7669678060,
@@ -4389,9 +6640,9 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m5"
+    "Current_Milestone": "m6"
   },
   {
     "VirtualId": 7669678060,
@@ -4404,9 +6655,39 @@
     "Day_Level": "m5",
     "Prev_Level": "m4",
     "Movement": "m4 → m5",
-    "Total_Days": 5,
+    "Total_Days": 7,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m5"
+    "Current_Milestone": "m6"
+  },
+  {
+    "VirtualId": 7669678060,
+    "Date": "2026-02-17",
+    "Student": "DHANGDE KRUTHIKA",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "m5",
+    "Prev_Level": "m5",
+    "Movement": "m5",
+    "Total_Days": 7,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m6"
+  },
+  {
+    "VirtualId": 7669678060,
+    "Date": "2026-02-18",
+    "Student": "DHANGDE KRUTHIKA",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "m6",
+    "Prev_Level": "m5",
+    "Movement": "m5 → m6",
+    "Total_Days": 7,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m6"
   },
   {
     "VirtualId": 7685212537,
@@ -4419,7 +6700,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -4434,7 +6715,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -4449,7 +6730,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -4464,7 +6745,37 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 7685212537,
+    "Date": "2026-02-17",
+    "Student": "THALARI RAMUDU",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 7685212537,
+    "Date": "2026-02-18",
+    "Student": "THALARI RAMUDU",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -4479,7 +6790,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -4494,7 +6805,37 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 2,
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 7828117216,
+    "Date": "2026-02-17",
+    "Student": "SHAIK ADNAN",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 7828117216,
+    "Date": "2026-02-18",
+    "Student": "SHAIK ADNAN",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 4,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L2"
   },
@@ -4509,9 +6850,39 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 1,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F2_L3"
+  },
+  {
+    "VirtualId": 7968461638,
+    "Date": "2026-02-17",
+    "Student": "TANISHQ CH",
+    "Grade": 4,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L3",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L3"
+  },
+  {
+    "VirtualId": 7968461638,
+    "Date": "2026-02-18",
+    "Student": "TANISHQ CH",
+    "Grade": 4,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F2_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L3",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L3"
   },
   {
     "VirtualId": 7982933069,
@@ -4524,7 +6895,7 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -4539,7 +6910,22 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 3,
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 7982933069,
+    "Date": "2026-02-17",
+    "Student": "MOHAMMED ARMAN",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 4,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -4554,9 +6940,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m1",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "m1"
   },
   {
     "VirtualId": 8147195499,
@@ -4569,9 +6955,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m1",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "m1"
   },
   {
     "VirtualId": 8147195499,
@@ -4584,9 +6970,9 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m1",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "m1"
   },
   {
     "VirtualId": 8147195499,
@@ -4599,9 +6985,39 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "m1",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "m1"
+  },
+  {
+    "VirtualId": 8147195499,
+    "Date": "2026-02-17",
+    "Student": "MOHAMMED ABU HURAIRA",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L1",
+    "Total_Days": 6,
+    "Start_Milestone": "m1",
+    "Current_Milestone": "m1"
+  },
+  {
+    "VirtualId": 8147195499,
+    "Date": "2026-02-18",
+    "Student": "MOHAMMED ABU HURAIRA",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F2_L3",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1 → F2_L3",
+    "Total_Days": 6,
+    "Start_Milestone": "m1",
+    "Current_Milestone": "m1"
   },
   {
     "VirtualId": 8180929242,
@@ -4614,7 +7030,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -4629,7 +7045,22 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 8180929242,
+    "Date": "2026-02-18",
+    "Student": "KANDI JAHNAVI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 3,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   },
@@ -4644,7 +7075,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -4659,7 +7090,22 @@
     "Day_Level": "m4",
     "Prev_Level": "m3",
     "Movement": "m3 → m4",
-    "Total_Days": 2,
+    "Total_Days": 3,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 8237137489,
+    "Date": "2026-02-17",
+    "Student": "KIMIDI JANVIKA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 3,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -4674,9 +7120,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8237212912,
@@ -4689,9 +7135,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8237212912,
@@ -4704,9 +7150,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8237212912,
@@ -4719,9 +7165,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8237212912,
@@ -4734,9 +7180,24 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 8237212912,
+    "Date": "2026-02-18",
+    "Student": "PODISHETTY VIGNAJEETH",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8397160278,
@@ -4749,9 +7210,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8397160278,
@@ -4764,9 +7225,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8397160278,
@@ -4779,9 +7240,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8397160278,
@@ -4794,9 +7255,39 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 8397160278,
+    "Date": "2026-02-17",
+    "Student": "GOLAMANDALA HARSHA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 8397160278,
+    "Date": "2026-02-18",
+    "Student": "GOLAMANDALA HARSHA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8485933831,
@@ -4809,9 +7300,9 @@
     "Day_Level": "m2",
     "Prev_Level": "m2",
     "Movement": "m2",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "m2",
-    "Current_Milestone": "m3"
+    "Current_Milestone": "m4"
   },
   {
     "VirtualId": 8485933831,
@@ -4824,9 +7315,39 @@
     "Day_Level": "m3",
     "Prev_Level": "m2",
     "Movement": "m2 → m3",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "m2",
-    "Current_Milestone": "m3"
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 8485933831,
+    "Date": "2026-02-17",
+    "Student": "SAINATH KANDAJI BORLEMWAR",
+    "Grade": 4,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "m4",
+    "Prev_Level": "m3",
+    "Movement": "m3 → m4",
+    "Total_Days": 4,
+    "Start_Milestone": "m2",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 8485933831,
+    "Date": "2026-02-18",
+    "Student": "SAINATH KANDAJI BORLEMWAR",
+    "Grade": 4,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 4,
+    "Start_Milestone": "m2",
+    "Current_Milestone": "m4"
   },
   {
     "VirtualId": 8553617683,
@@ -4839,7 +7360,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -4854,7 +7375,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -4869,7 +7390,37 @@
     "Day_Level": "m4",
     "Prev_Level": "m3",
     "Movement": "m3 → m4",
-    "Total_Days": 3,
+    "Total_Days": 5,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 8553617683,
+    "Date": "2026-02-17",
+    "Student": "DONIKENI SRI VIDYA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 5,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 8553617683,
+    "Date": "2026-02-18",
+    "Student": "DONIKENI SRI VIDYA",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 5,
     "Start_Milestone": "m3",
     "Current_Milestone": "m4"
   },
@@ -4884,9 +7435,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8566077813,
@@ -4899,9 +7450,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8566077813,
@@ -4914,9 +7465,24 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L1"
+    "Current_Milestone": "F1_L2"
+  },
+  {
+    "VirtualId": 8566077813,
+    "Date": "2026-02-17",
+    "Student": "KARATLAPALLY DEVAANSH",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "F1_L2",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1 → F1_L2",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L2"
   },
   {
     "VirtualId": 8779781618,
@@ -4974,7 +7540,7 @@
     "Day_Level": "m1",
     "Prev_Level": "m1",
     "Movement": "m1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "m2"
   },
@@ -4989,7 +7555,7 @@
     "Day_Level": "m2",
     "Prev_Level": "m1",
     "Movement": "m1 → m2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "m2"
   },
@@ -5004,7 +7570,37 @@
     "Day_Level": "m2",
     "Prev_Level": "m2",
     "Movement": "m2",
-    "Total_Days": 4,
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "m2"
+  },
+  {
+    "VirtualId": 8841500288,
+    "Date": "2026-02-17",
+    "Student": "K SAI RAM",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "m2",
+    "Prev_Level": "m2",
+    "Movement": "m2",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "m2"
+  },
+  {
+    "VirtualId": 8841500288,
+    "Date": "2026-02-18",
+    "Student": "K SAI RAM",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "KHAIRATABAD",
+    "School": "GOVT. PS RAJBHAVAN, RAJBHAVAN",
+    "Day_Level": "m2",
+    "Prev_Level": "m2",
+    "Movement": "m2",
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "m2"
   },
@@ -5019,7 +7615,7 @@
     "Day_Level": "m2",
     "Prev_Level": "m2",
     "Movement": "m2",
-    "Total_Days": 5,
+    "Total_Days": 6,
     "Start_Milestone": "m2",
     "Current_Milestone": "m4"
   },
@@ -5034,7 +7630,7 @@
     "Day_Level": "m2",
     "Prev_Level": "m2",
     "Movement": "m2",
-    "Total_Days": 5,
+    "Total_Days": 6,
     "Start_Milestone": "m2",
     "Current_Milestone": "m4"
   },
@@ -5049,7 +7645,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m2",
     "Movement": "m2 → m3",
-    "Total_Days": 5,
+    "Total_Days": 6,
     "Start_Milestone": "m2",
     "Current_Milestone": "m4"
   },
@@ -5064,7 +7660,7 @@
     "Day_Level": "m4",
     "Prev_Level": "m3",
     "Movement": "m3 → m4",
-    "Total_Days": 5,
+    "Total_Days": 6,
     "Start_Milestone": "m2",
     "Current_Milestone": "m4"
   },
@@ -5079,7 +7675,22 @@
     "Day_Level": "m4",
     "Prev_Level": "m4",
     "Movement": "m4",
-    "Total_Days": 5,
+    "Total_Days": 6,
+    "Start_Milestone": "m2",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 8872544109,
+    "Date": "2026-02-18",
+    "Student": "CHEEPURUPALLI SHANMUKHA VARDHAN",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 6,
     "Start_Milestone": "m2",
     "Current_Milestone": "m4"
   },
@@ -5094,7 +7705,7 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 3,
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m3"
   },
@@ -5109,7 +7720,52 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 3,
+    "Total_Days": 6,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m3"
+  },
+  {
+    "VirtualId": 8875136714,
+    "Date": "2026-02-17",
+    "Student": "SIDDAMONI HEMANTHU",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m2",
+    "Prev_Level": "m3",
+    "Movement": "m3 → m2",
+    "Total_Days": 6,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m3"
+  },
+  {
+    "VirtualId": 8875136714,
+    "Date": "2026-02-18",
+    "Student": "SIDDAMONI HEMANTHU",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m3",
+    "Prev_Level": "m2",
+    "Movement": "m2 → m3",
+    "Total_Days": 6,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m3"
+  },
+  {
+    "VirtualId": 8875136714,
+    "Date": "2026-02-19",
+    "Student": "SIDDAMONI HEMANTHU",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "MAREDPALLY",
+    "School": "GOVT. PS(G)MARKETLALAPET, LALAPET",
+    "Day_Level": "m3",
+    "Prev_Level": "m3",
+    "Movement": "m3",
+    "Total_Days": 6,
     "Start_Milestone": "m3",
     "Current_Milestone": "m3"
   },
@@ -5124,7 +7780,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -5139,7 +7795,7 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -5154,7 +7810,7 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -5169,7 +7825,37 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 9164256991,
+    "Date": "2026-02-17",
+    "Student": "GANDHAM PRANEETH KUMAR",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 9164256991,
+    "Date": "2026-02-18",
+    "Student": "GANDHAM PRANEETH KUMAR",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3",
+    "Total_Days": 6,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L3"
   },
@@ -5184,9 +7870,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 9186567004,
@@ -5199,9 +7885,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 9186567004,
@@ -5214,9 +7900,24 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 3,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F1_L3"
+  },
+  {
+    "VirtualId": 9186567004,
+    "Date": "2026-02-17",
+    "Student": "AYESHA FATHIMA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT  PS PRACTICING (EM) LASKAR BAZAR",
+    "Day_Level": "F1_L3",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F1_L3",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L3"
   },
   {
     "VirtualId": 9296500757,
@@ -5229,9 +7930,9 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m3"
+    "Current_Milestone": "m4"
   },
   {
     "VirtualId": 9296500757,
@@ -5244,9 +7945,9 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m3"
+    "Current_Milestone": "m4"
   },
   {
     "VirtualId": 9296500757,
@@ -5259,9 +7960,39 @@
     "Day_Level": "m3",
     "Prev_Level": "m3",
     "Movement": "m3",
-    "Total_Days": 3,
+    "Total_Days": 5,
     "Start_Milestone": "m3",
-    "Current_Milestone": "m3"
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 9296500757,
+    "Date": "2026-02-17",
+    "Student": "JANJARLA ANANYA SRI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "m4",
+    "Prev_Level": "m3",
+    "Movement": "m3 → m4",
+    "Total_Days": 5,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
+  },
+  {
+    "VirtualId": 9296500757,
+    "Date": "2026-02-18",
+    "Student": "JANJARLA ANANYA SRI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "m4",
+    "Prev_Level": "m4",
+    "Movement": "m4",
+    "Total_Days": 5,
+    "Start_Milestone": "m3",
+    "Current_Milestone": "m4"
   },
   {
     "VirtualId": 9360961887,
@@ -5274,9 +8005,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 9360961887,
@@ -5289,9 +8020,24 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L3",
-    "Total_Days": 2,
+    "Total_Days": 3,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
+  },
+  {
+    "VirtualId": 9360961887,
+    "Date": "2026-02-18",
+    "Student": "POOJA KUCHBAL",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F2_L2",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L2",
+    "Total_Days": 3,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 9449855397,
@@ -5304,9 +8050,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 9449855397,
@@ -5319,9 +8065,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 9449855397,
@@ -5334,9 +8080,39 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 4,
+    "Total_Days": 6,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 9449855397,
+    "Date": "2026-02-17",
+    "Student": "MANDA MANISH",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L1",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 9449855397,
+    "Date": "2026-02-18",
+    "Student": "MANDA MANISH",
+    "Grade": 3,
+    "District": "MEDCHAL MALKAJGIRI",
+    "Mandal": "MEDCHEL",
+    "School": "MPPS RLY STATION RAOD",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1",
+    "Total_Days": 6,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 9601880126,
@@ -5394,9 +8170,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 9724773138,
@@ -5409,9 +8185,39 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 2,
+    "Total_Days": 4,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L2"
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 9724773138,
+    "Date": "2026-02-17",
+    "Student": "AYRA FATIMA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F1_L2",
+    "Movement": "F1_L2 → F2_L1",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
+  },
+  {
+    "VirtualId": 9724773138,
+    "Date": "2026-02-18",
+    "Student": "AYRA FATIMA",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1",
+    "Total_Days": 4,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L1"
   },
   {
     "VirtualId": 9748380550,
@@ -5424,9 +8230,9 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 9748380550,
@@ -5439,9 +8245,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1 → F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 9748380550,
@@ -5454,9 +8260,9 @@
     "Day_Level": "F1_L2",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 9748380550,
@@ -5469,9 +8275,9 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L2",
     "Movement": "F1_L2 → F1_L3",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 9748380550,
@@ -5484,9 +8290,54 @@
     "Day_Level": "F1_L3",
     "Prev_Level": "F1_L3",
     "Movement": "F1_L3",
-    "Total_Days": 5,
+    "Total_Days": 8,
     "Start_Milestone": "B",
-    "Current_Milestone": "F1_L3"
+    "Current_Milestone": "F2_L2"
+  },
+  {
+    "VirtualId": 9748380550,
+    "Date": "2026-02-17",
+    "Student": "MALLAPA BENNY HINN",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F1_L3",
+    "Movement": "F1_L3 → F2_L1",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L2"
+  },
+  {
+    "VirtualId": 9748380550,
+    "Date": "2026-02-18",
+    "Student": "MALLAPA BENNY HINN",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F2_L1",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L2"
+  },
+  {
+    "VirtualId": 9748380550,
+    "Date": "2026-02-19",
+    "Student": "MALLAPA BENNY HINN",
+    "Grade": 3,
+    "District": "HYDERABAD",
+    "Mandal": "NAMPALLY",
+    "School": "GOVT. PS(M)ALIYA,GUNFOUNDRY",
+    "Day_Level": "F2_L2",
+    "Prev_Level": "F2_L1",
+    "Movement": "F2_L1 → F2_L2",
+    "Total_Days": 8,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F2_L2"
   },
   {
     "VirtualId": 9825324251,
@@ -5499,7 +8350,22 @@
     "Day_Level": "F1_L1",
     "Prev_Level": "F1_L1",
     "Movement": "F1_L1",
-    "Total_Days": 1,
+    "Total_Days": 2,
+    "Start_Milestone": "B",
+    "Current_Milestone": "F1_L1"
+  },
+  {
+    "VirtualId": 9825324251,
+    "Date": "2026-02-18",
+    "Student": "PADALA SHANVI",
+    "Grade": 3,
+    "District": "HANUMAKONDA",
+    "Mandal": "HANAMKONDA",
+    "School": "GOVT. PS MARKAJI",
+    "Day_Level": "F1_L1",
+    "Prev_Level": "F1_L1",
+    "Movement": "F1_L1",
+    "Total_Days": 2,
     "Start_Milestone": "B",
     "Current_Milestone": "F1_L1"
   }
