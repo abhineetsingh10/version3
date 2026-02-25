@@ -47,9 +47,9 @@ d3.json("matrix_data.json").then(data => {
 
     const milestoneOrder = [
       "B",
-      "F1_L1","F1_L2","F1_L3",
-      "F2_L1","F2_L2","F2_L3",
-      "F3_L1","F3_L2","F3_L3",
+      "F1_A1","F1_A2","F1_A3",
+      "F2_A1","F2_A2","F2_A3",
+      "F3_A1","F3_A2","F3_A3",
       "m1","m2","m3","m4","m5","m6","m7","m8","m9"
     ];
 
