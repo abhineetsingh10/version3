@@ -1,14 +1,42 @@
 d3.json("matrix_data.json").then(data => {
 
-  // Convert Date
+  // ----------------------------
+  // Helpers
+  // ----------------------------
+
+  function cleanString(str) {
+    return str ? str.trim().replace(/\s+/g, " ") : "";
+  }
+
+  const milestoneOrder = [
+    "B",
+    "F1_A1","F1_A2","F1_A3",
+    "F2_A1","F2_A2","F2_A3",
+    "F3_A1","F3_A2","F3_A3",
+    "m1","m2","m3","m4","m5","m6","m7","m8","m9"
+  ];
+
+  // ----------------------------
+  // Normalize Data
+  // ----------------------------
+
   data.forEach(d => {
     d.Date = new Date(d.Date);
+
+    d.District = cleanString(d.District);
+    d.Mandal   = cleanString(d.Mandal);
+    d.School   = cleanString(d.School);
+
+    d.Student  = cleanString(d.Student);
+    d.Start_Milestone   = cleanString(d.Start_Milestone);
+    d.Current_Milestone = cleanString(d.Current_Milestone);
+    d.Movement = cleanString(d.Movement);
   });
 
-  const districtSelect = d3.select("#districtFilter");
-  const mandalSelect   = d3.select("#mandalFilter");
-  const schoolSelect   = d3.select("#schoolFilter");
-  const sortBySelect   = d3.select("#sortBy");
+  const districtSelect  = d3.select("#districtFilter");
+  const mandalSelect    = d3.select("#mandalFilter");
+  const schoolSelect    = d3.select("#schoolFilter");
+  const sortBySelect    = d3.select("#sortBy");
   const sortOrderSelect = d3.select("#sortOrder");
 
   // ----------------------------
@@ -23,17 +51,23 @@ d3.json("matrix_data.json").then(data => {
 
     districtSelect.selectAll("option")
       .data(districts)
-      .enter().append("option")
+      .enter()
+      .append("option")
+      .attr("value", d => d)
       .text(d => d);
 
     mandalSelect.selectAll("option")
       .data(mandals)
-      .enter().append("option")
+      .enter()
+      .append("option")
+      .attr("value", d => d)
       .text(d => d);
 
     schoolSelect.selectAll("option")
       .data(schools)
-      .enter().append("option")
+      .enter()
+      .append("option")
+      .attr("value", d => d)
       .text(d => d);
   }
 
@@ -45,14 +79,6 @@ d3.json("matrix_data.json").then(data => {
 
   function sortStudents(studentGroups, sortField, order) {
 
-    const milestoneOrder = [
-      "B",
-      "F1_A1","F1_A2","F1_A3",
-      "F2_A1","F2_A2","F2_A3",
-      "F3_A1","F3_A2","F3_A3",
-      "m1","m2","m3","m4","m5","m6","m7","m8","m9"
-    ];
-
     return studentGroups.sort((a, b) => {
 
       const aMeta = a[1][0];
@@ -61,15 +87,15 @@ d3.json("matrix_data.json").then(data => {
       let valA = aMeta[sortField];
       let valB = bMeta[sortField];
 
-      if(sortField === "Start_Milestone" || sortField === "Current_Milestone") {
+      if (sortField === "Start_Milestone" || sortField === "Current_Milestone") {
         valA = milestoneOrder.indexOf(valA);
         valB = milestoneOrder.indexOf(valB);
       }
 
-      if(order === "asc") {
-        return valA > valB ? 1 : -1;
+      if (order === "asc") {
+        return valA > valB ? 1 : valA < valB ? -1 : 0;
       } else {
-        return valA < valB ? 1 : -1;
+        return valA < valB ? 1 : valA > valB ? -1 : 0;
       }
     });
   }
@@ -84,10 +110,13 @@ d3.json("matrix_data.json").then(data => {
     table.select("thead").html("");
     table.select("tbody").html("");
 
+    if (!filteredData.length) return;
+
     const dates = Array.from(
       new Set(filteredData.map(d => d.Date.getTime()))
-    ).sort((a,b) => a-b)
-     .map(d => new Date(d));
+    )
+    .sort((a,b) => a-b)
+    .map(d => new Date(d));
 
     let students = d3.groups(filteredData, d => d.VirtualId);
 
@@ -144,7 +173,7 @@ d3.json("matrix_data.json").then(data => {
 
           cell.append("span")
             .attr("class", "pill " + pillClass)
-            .text(record.Movement);
+            .text(record.Movement || "");
         }
       });
     });
@@ -156,9 +185,9 @@ d3.json("matrix_data.json").then(data => {
 
   function applyFilters() {
 
-    const district = districtSelect.property("value");
-    const mandal   = mandalSelect.property("value");
-    const school   = schoolSelect.property("value");
+    const district = cleanString(districtSelect.property("value"));
+    const mandal   = cleanString(mandalSelect.property("value"));
+    const school   = cleanString(schoolSelect.property("value"));
 
     const filtered = data.filter(d =>
       (district === "All" || d.District === district) &&
@@ -175,6 +204,7 @@ d3.json("matrix_data.json").then(data => {
   sortBySelect.on("change", applyFilters);
   sortOrderSelect.on("change", applyFilters);
 
+  // Initial render
   renderTable(data);
 
 });
