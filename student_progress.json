@@ -731,6 +731,12 @@
     "Visual_Level": "F3_A1"
   },
   {
+    "Student": "MD NAIRA",
+    "VirtualId": 1004908428,
+    "CreatedAt": "2026-03-18 14:43:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
     "Student": "CHIRUPAKA YASHWANTH",
     "VirtualId": 1016114383,
     "CreatedAt": "2026-02-10 10:20:00",
@@ -2718,6 +2724,24 @@
     "Student": "MOHAMMED ZISHAN",
     "VirtualId": 1161306417,
     "CreatedAt": "2026-03-17 09:14:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "MOHAMMED ZISHAN",
+    "VirtualId": 1161306417,
+    "CreatedAt": "2026-03-18 13:38:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "MOHAMMED ZISHAN",
+    "VirtualId": 1161306417,
+    "CreatedAt": "2026-03-18 13:45:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "MOHAMMED ZISHAN",
+    "VirtualId": 1161306417,
+    "CreatedAt": "2026-03-18 13:52:00",
     "Visual_Level": "m6"
   },
   {
@@ -4976,6 +5000,12 @@
     "VirtualId": 1524088805,
     "CreatedAt": "2026-03-17 09:11:00",
     "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "BHUKAYA SAHAREKA",
+    "VirtualId": 1524088805,
+    "CreatedAt": "2026-03-18 13:34:00",
+    "Visual_Level": "F3_A2"
   },
   {
     "Student": "APPANI ANIRUDH",
@@ -10148,6 +10178,12 @@
     "Visual_Level": "F2_A1"
   },
   {
+    "Student": "SURA SARIYU",
+    "VirtualId": 2171995235,
+    "CreatedAt": "2026-03-18 14:40:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
     "Student": "HIMANSHU RAJ",
     "VirtualId": 2176139873,
     "CreatedAt": "2025-12-17 15:45:00",
@@ -13684,6 +13720,48 @@
     "Visual_Level": "m7"
   },
   {
+    "Student": "ANISHETTI MANISHA",
+    "VirtualId": 2230235458,
+    "CreatedAt": "2026-03-18 13:27:00",
+    "Visual_Level": "m7"
+  },
+  {
+    "Student": "ANISHETTI MANISHA",
+    "VirtualId": 2230235458,
+    "CreatedAt": "2026-03-18 13:32:00",
+    "Visual_Level": "m7"
+  },
+  {
+    "Student": "ANISHETTI MANISHA",
+    "VirtualId": 2230235458,
+    "CreatedAt": "2026-03-18 13:35:00",
+    "Visual_Level": "m7"
+  },
+  {
+    "Student": "ANISHETTI MANISHA",
+    "VirtualId": 2230235458,
+    "CreatedAt": "2026-03-18 13:42:00",
+    "Visual_Level": "m7"
+  },
+  {
+    "Student": "ANISHETTI MANISHA",
+    "VirtualId": 2230235458,
+    "CreatedAt": "2026-03-18 13:46:00",
+    "Visual_Level": "m7"
+  },
+  {
+    "Student": "ANISHETTI MANISHA",
+    "VirtualId": 2230235458,
+    "CreatedAt": "2026-03-18 13:52:00",
+    "Visual_Level": "m7"
+  },
+  {
+    "Student": "ANISHETTI MANISHA",
+    "VirtualId": 2230235458,
+    "CreatedAt": "2026-03-18 13:58:00",
+    "Visual_Level": "m7"
+  },
+  {
     "Student": "NAGAPOORI ARYA",
     "VirtualId": 2276087914,
     "CreatedAt": "2026-02-20 12:15:00",
@@ -14275,6 +14353,84 @@
     "VirtualId": 2276087914,
     "CreatedAt": "2026-03-17 10:41:00",
     "Visual_Level": "F2_A3"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 13:32:00",
+    "Visual_Level": "F2_A3"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 13:35:00",
+    "Visual_Level": "F2_A3"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 13:42:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 13:47:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 13:49:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 13:50:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 13:55:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 14:04:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 14:05:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 14:08:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 14:11:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 14:13:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "NAGAPOORI ARYA",
+    "VirtualId": 2276087914,
+    "CreatedAt": "2026-03-18 14:17:00",
+    "Visual_Level": "F3_A2"
   },
   {
     "Student": "RADHIKA",
@@ -15059,6 +15215,36 @@
     "VirtualId": 2317289822,
     "CreatedAt": "2026-03-17 10:28:00",
     "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "RADHIKA",
+    "VirtualId": 2317289822,
+    "CreatedAt": "2026-03-18 10:09:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "RADHIKA",
+    "VirtualId": 2317289822,
+    "CreatedAt": "2026-03-18 10:11:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "RADHIKA",
+    "VirtualId": 2317289822,
+    "CreatedAt": "2026-03-18 10:17:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "RADHIKA",
+    "VirtualId": 2317289822,
+    "CreatedAt": "2026-03-18 10:21:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "RADHIKA",
+    "VirtualId": 2317289822,
+    "CreatedAt": "2026-03-18 10:25:00",
+    "Visual_Level": "F3_A1"
   },
   {
     "Student": "NALEEKELA PRATHUL",
@@ -16593,6 +16779,48 @@
     "Visual_Level": "F3_A1"
   },
   {
+    "Student": "T. RITHIKA",
+    "VirtualId": 2424420889,
+    "CreatedAt": "2026-03-18 10:12:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "T. RITHIKA",
+    "VirtualId": 2424420889,
+    "CreatedAt": "2026-03-18 10:13:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "T. RITHIKA",
+    "VirtualId": 2424420889,
+    "CreatedAt": "2026-03-18 10:13:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "T. RITHIKA",
+    "VirtualId": 2424420889,
+    "CreatedAt": "2026-03-18 10:15:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "T. RITHIKA",
+    "VirtualId": 2424420889,
+    "CreatedAt": "2026-03-18 10:22:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "T. RITHIKA",
+    "VirtualId": 2424420889,
+    "CreatedAt": "2026-03-18 10:24:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "T. RITHIKA",
+    "VirtualId": 2424420889,
+    "CreatedAt": "2026-03-18 10:26:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
     "Student": "GUNDLA AKHIL",
     "VirtualId": 2453015709,
     "CreatedAt": "2026-02-09 15:11:00",
@@ -17536,6 +17764,66 @@
     "Student": "GUNDLA AKHIL",
     "VirtualId": 2453015709,
     "CreatedAt": "2026-03-17 11:26:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "GUNDLA AKHIL",
+    "VirtualId": 2453015709,
+    "CreatedAt": "2026-03-18 10:30:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "GUNDLA AKHIL",
+    "VirtualId": 2453015709,
+    "CreatedAt": "2026-03-18 10:34:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "GUNDLA AKHIL",
+    "VirtualId": 2453015709,
+    "CreatedAt": "2026-03-18 10:35:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "GUNDLA AKHIL",
+    "VirtualId": 2453015709,
+    "CreatedAt": "2026-03-18 10:36:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "GUNDLA AKHIL",
+    "VirtualId": 2453015709,
+    "CreatedAt": "2026-03-18 11:01:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "GUNDLA AKHIL",
+    "VirtualId": 2453015709,
+    "CreatedAt": "2026-03-18 11:01:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "GUNDLA AKHIL",
+    "VirtualId": 2453015709,
+    "CreatedAt": "2026-03-18 11:04:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "GUNDLA AKHIL",
+    "VirtualId": 2453015709,
+    "CreatedAt": "2026-03-18 11:05:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "GUNDLA AKHIL",
+    "VirtualId": 2453015709,
+    "CreatedAt": "2026-03-18 11:06:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "GUNDLA AKHIL",
+    "VirtualId": 2453015709,
+    "CreatedAt": "2026-03-18 11:08:00",
     "Visual_Level": "F3_A1"
   },
   {
@@ -21749,6 +22037,42 @@
     "Visual_Level": "Pre-B"
   },
   {
+    "Student": "KUNCHAPU CHARAN",
+    "VirtualId": 2611017339,
+    "CreatedAt": "2026-03-18 14:38:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KUNCHAPU CHARAN",
+    "VirtualId": 2611017339,
+    "CreatedAt": "2026-03-18 14:48:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KUNCHAPU CHARAN",
+    "VirtualId": 2611017339,
+    "CreatedAt": "2026-03-18 14:50:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KUNCHAPU CHARAN",
+    "VirtualId": 2611017339,
+    "CreatedAt": "2026-03-18 14:53:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KUNCHAPU CHARAN",
+    "VirtualId": 2611017339,
+    "CreatedAt": "2026-03-18 14:57:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KUNCHAPU CHARAN",
+    "VirtualId": 2611017339,
+    "CreatedAt": "2026-03-18 14:59:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
     "Student": "MOHAMMED MUJTABA QURAISHI MUBASSHIR",
     "VirtualId": 2728176018,
     "CreatedAt": "2026-02-09 11:11:00",
@@ -22914,6 +23238,18 @@
     "Student": "MOHAMMED MUJTABA QURAISHI MUBASSHIR",
     "VirtualId": 2728176018,
     "CreatedAt": "2026-03-16 10:49:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MOHAMMED MUJTABA QURAISHI MUBASSHIR",
+    "VirtualId": 2728176018,
+    "CreatedAt": "2026-03-18 14:38:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MOHAMMED MUJTABA QURAISHI MUBASSHIR",
+    "VirtualId": 2728176018,
+    "CreatedAt": "2026-03-18 15:01:00",
     "Visual_Level": "F3_A1"
   },
   {
@@ -26161,6 +26497,221 @@
     "Visual_Level": "F3_A1"
   },
   {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:34:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:35:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:36:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:37:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:38:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:41:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:45:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:48:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:49:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:50:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:51:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 14:56:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 15:00:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 15:01:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 15:02:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DAKSHAYANI",
+    "VirtualId": 3018649157,
+    "CreatedAt": "2026-03-18 15:03:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:26:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:28:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:29:00"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:32:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:35:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:36:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:38:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:40:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:40:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:41:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:43:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:46:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:47:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:47:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:49:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:51:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:52:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:54:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 13:57:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "KATHULA VAISHNAVI",
+    "VirtualId": 3063191652,
+    "CreatedAt": "2026-03-13 14:03:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
     "Student": "RAMAVATH RAKESH NAYAK",
     "VirtualId": 3070421588,
     "CreatedAt": "2026-02-10 09:54:00",
@@ -26876,6 +27427,48 @@
     "Student": "RAMAVATH RAKESH NAYAK",
     "VirtualId": 3070421588,
     "CreatedAt": "2026-03-17 10:39:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "RAMAVATH RAKESH NAYAK",
+    "VirtualId": 3070421588,
+    "CreatedAt": "2026-03-18 10:17:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "RAMAVATH RAKESH NAYAK",
+    "VirtualId": 3070421588,
+    "CreatedAt": "2026-03-18 10:20:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "RAMAVATH RAKESH NAYAK",
+    "VirtualId": 3070421588,
+    "CreatedAt": "2026-03-18 10:21:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "RAMAVATH RAKESH NAYAK",
+    "VirtualId": 3070421588,
+    "CreatedAt": "2026-03-18 10:23:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "RAMAVATH RAKESH NAYAK",
+    "VirtualId": 3070421588,
+    "CreatedAt": "2026-03-18 10:23:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "RAMAVATH RAKESH NAYAK",
+    "VirtualId": 3070421588,
+    "CreatedAt": "2026-03-18 10:24:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "RAMAVATH RAKESH NAYAK",
+    "VirtualId": 3070421588,
+    "CreatedAt": "2026-03-18 10:32:00",
     "Visual_Level": "F3_A2"
   },
   {
@@ -28340,6 +28933,30 @@
     "Student": "MITTAPALLY SAIVARSHITH",
     "VirtualId": 3125154923,
     "CreatedAt": "2026-03-17 11:29:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "MITTAPALLY SAIVARSHITH",
+    "VirtualId": 3125154923,
+    "CreatedAt": "2026-03-18 10:32:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "MITTAPALLY SAIVARSHITH",
+    "VirtualId": 3125154923,
+    "CreatedAt": "2026-03-18 10:36:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "MITTAPALLY SAIVARSHITH",
+    "VirtualId": 3125154923,
+    "CreatedAt": "2026-03-18 10:47:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "MITTAPALLY SAIVARSHITH",
+    "VirtualId": 3125154923,
+    "CreatedAt": "2026-03-18 10:50:00",
     "Visual_Level": "m5"
   },
   {
@@ -31277,6 +31894,90 @@
     "Visual_Level": "m1"
   },
   {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 10:27:00",
+    "Visual_Level": "m2"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 10:30:00",
+    "Visual_Level": "m2"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 10:32:00",
+    "Visual_Level": "m2"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 10:34:00",
+    "Visual_Level": "m2"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 10:36:00",
+    "Visual_Level": "m2"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 10:40:00",
+    "Visual_Level": "m3"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 10:41:00",
+    "Visual_Level": "m3"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 10:44:00",
+    "Visual_Level": "m3"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 10:47:00",
+    "Visual_Level": "m3"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 10:49:00",
+    "Visual_Level": "m3"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 10:53:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 11:00:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 11:04:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANSHA MAJHI",
+    "VirtualId": 3275390694,
+    "CreatedAt": "2026-03-18 11:07:00",
+    "Visual_Level": "m4"
+  },
+  {
     "Student": "PALAKURTHI BHAVYA SREE",
     "VirtualId": 3279325907,
     "CreatedAt": "2026-02-13 13:28:00",
@@ -32700,6 +33401,42 @@
     "Student": "ABDUL KHADAR",
     "VirtualId": 3384842131,
     "CreatedAt": "2026-03-17 11:28:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "ABDUL KHADAR",
+    "VirtualId": 3384842131,
+    "CreatedAt": "2026-03-18 10:34:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "ABDUL KHADAR",
+    "VirtualId": 3384842131,
+    "CreatedAt": "2026-03-18 10:44:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "ABDUL KHADAR",
+    "VirtualId": 3384842131,
+    "CreatedAt": "2026-03-18 10:54:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "ABDUL KHADAR",
+    "VirtualId": 3384842131,
+    "CreatedAt": "2026-03-18 10:59:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "ABDUL KHADAR",
+    "VirtualId": 3384842131,
+    "CreatedAt": "2026-03-18 11:06:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "ABDUL KHADAR",
+    "VirtualId": 3384842131,
+    "CreatedAt": "2026-03-18 11:07:00",
     "Visual_Level": "m6"
   },
   {
@@ -35279,6 +36016,24 @@
     "Visual_Level": "F1_A2"
   },
   {
+    "Student": "VADDE VIGNESH",
+    "VirtualId": 3636791611,
+    "CreatedAt": "2026-03-18 10:33:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "VADDE VIGNESH",
+    "VirtualId": 3636791611,
+    "CreatedAt": "2026-03-18 10:33:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "VADDE VIGNESH",
+    "VirtualId": 3636791611,
+    "CreatedAt": "2026-03-18 10:36:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
     "Student": "AYESHA SIDDIQUA",
     "VirtualId": 3640774627,
     "CreatedAt": "2026-02-12 14:32:00",
@@ -36408,6 +37163,24 @@
     "Visual_Level": "F2_A3"
   },
   {
+    "Student": "SHAIK AZMATH",
+    "VirtualId": 3708513647,
+    "CreatedAt": "2026-03-18 10:28:00",
+    "Visual_Level": "F2_A3"
+  },
+  {
+    "Student": "SHAIK AZMATH",
+    "VirtualId": 3708513647,
+    "CreatedAt": "2026-03-18 10:33:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SHAIK AZMATH",
+    "VirtualId": 3708513647,
+    "CreatedAt": "2026-03-18 11:09:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
     "Student": "L ANKITHA",
     "VirtualId": 3721509580,
     "CreatedAt": "2026-02-09 10:20:00",
@@ -37147,6 +37920,30 @@
     "Student": "L ANKITHA",
     "VirtualId": 3721509580,
     "CreatedAt": "2026-03-17 10:52:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "L ANKITHA",
+    "VirtualId": 3721509580,
+    "CreatedAt": "2026-03-18 10:15:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "L ANKITHA",
+    "VirtualId": 3721509580,
+    "CreatedAt": "2026-03-18 10:23:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "L ANKITHA",
+    "VirtualId": 3721509580,
+    "CreatedAt": "2026-03-18 10:30:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "L ANKITHA",
+    "VirtualId": 3721509580,
+    "CreatedAt": "2026-03-18 10:31:00",
     "Visual_Level": "F3_A1"
   },
   {
@@ -39210,6 +40007,42 @@
     "Visual_Level": "m3"
   },
   {
+    "Student": "SHIDHI",
+    "VirtualId": 3815950129,
+    "CreatedAt": "2026-03-18 10:27:00",
+    "Visual_Level": "m3"
+  },
+  {
+    "Student": "SHIDHI",
+    "VirtualId": 3815950129,
+    "CreatedAt": "2026-03-18 10:30:00",
+    "Visual_Level": "m3"
+  },
+  {
+    "Student": "SHIDHI",
+    "VirtualId": 3815950129,
+    "CreatedAt": "2026-03-18 10:32:00",
+    "Visual_Level": "m3"
+  },
+  {
+    "Student": "SHIDHI",
+    "VirtualId": 3815950129,
+    "CreatedAt": "2026-03-18 10:34:00",
+    "Visual_Level": "m3"
+  },
+  {
+    "Student": "SHIDHI",
+    "VirtualId": 3815950129,
+    "CreatedAt": "2026-03-18 10:37:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "SHIDHI",
+    "VirtualId": 3815950129,
+    "CreatedAt": "2026-03-18 10:51:00",
+    "Visual_Level": "m4"
+  },
+  {
     "Student": "SONALI KUMARI",
     "VirtualId": 3897568736,
     "CreatedAt": "2026-02-10 12:08:00",
@@ -40747,6 +41580,42 @@
     "Student": "SONALI KUMARI",
     "VirtualId": 3897568736,
     "CreatedAt": "2026-03-17 11:26:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SONALI KUMARI",
+    "VirtualId": 3897568736,
+    "CreatedAt": "2026-03-18 10:27:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SONALI KUMARI",
+    "VirtualId": 3897568736,
+    "CreatedAt": "2026-03-18 10:30:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SONALI KUMARI",
+    "VirtualId": 3897568736,
+    "CreatedAt": "2026-03-18 10:36:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SONALI KUMARI",
+    "VirtualId": 3897568736,
+    "CreatedAt": "2026-03-18 10:41:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SONALI KUMARI",
+    "VirtualId": 3897568736,
+    "CreatedAt": "2026-03-18 10:42:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SONALI KUMARI",
+    "VirtualId": 3897568736,
+    "CreatedAt": "2026-03-18 11:05:00",
     "Visual_Level": "F3_A1"
   },
   {
@@ -44313,6 +45182,36 @@
     "Student": "AESHABOYINA TARAK",
     "VirtualId": 4138521023,
     "CreatedAt": "2026-03-13 12:17:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "AESHABOYINA TARAK",
+    "VirtualId": 4138521023,
+    "CreatedAt": "2026-03-18 10:32:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "AESHABOYINA TARAK",
+    "VirtualId": 4138521023,
+    "CreatedAt": "2026-03-18 10:41:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "AESHABOYINA TARAK",
+    "VirtualId": 4138521023,
+    "CreatedAt": "2026-03-18 10:42:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "AESHABOYINA TARAK",
+    "VirtualId": 4138521023,
+    "CreatedAt": "2026-03-18 10:47:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "AESHABOYINA TARAK",
+    "VirtualId": 4138521023,
+    "CreatedAt": "2026-03-18 10:55:00",
     "Visual_Level": "F3_A1"
   },
   {
@@ -48517,6 +49416,54 @@
     "Visual_Level": "F3_A2"
   },
   {
+    "Student": "SALURE DAKSHAYANI",
+    "VirtualId": 4293919283,
+    "CreatedAt": "2026-03-18 14:35:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SALURE DAKSHAYANI",
+    "VirtualId": 4293919283,
+    "CreatedAt": "2026-03-18 14:37:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SALURE DAKSHAYANI",
+    "VirtualId": 4293919283,
+    "CreatedAt": "2026-03-18 14:43:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SALURE DAKSHAYANI",
+    "VirtualId": 4293919283,
+    "CreatedAt": "2026-03-18 14:45:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SALURE DAKSHAYANI",
+    "VirtualId": 4293919283,
+    "CreatedAt": "2026-03-18 14:45:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SALURE DAKSHAYANI",
+    "VirtualId": 4293919283,
+    "CreatedAt": "2026-03-18 14:48:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SALURE DAKSHAYANI",
+    "VirtualId": 4293919283,
+    "CreatedAt": "2026-03-18 14:54:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SALURE DAKSHAYANI",
+    "VirtualId": 4293919283,
+    "CreatedAt": "2026-03-18 14:55:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
     "Student": "J KAVYA",
     "VirtualId": 4455836165,
     "CreatedAt": "2026-02-21 09:37:00",
@@ -49646,6 +50593,30 @@
     "Student": "PULI MAHISRI",
     "VirtualId": 4481792286,
     "CreatedAt": "2026-03-11 14:35:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "PULI MAHISRI",
+    "VirtualId": 4481792286,
+    "CreatedAt": "2026-03-18 13:44:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "PULI MAHISRI",
+    "VirtualId": 4481792286,
+    "CreatedAt": "2026-03-18 13:45:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "PULI MAHISRI",
+    "VirtualId": 4481792286,
+    "CreatedAt": "2026-03-18 13:45:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "PULI MAHISRI",
+    "VirtualId": 4481792286,
+    "CreatedAt": "2026-03-18 13:47:00",
     "Visual_Level": "F2_A1"
   },
   {
@@ -51751,6 +52722,108 @@
     "Visual_Level": "F3_A2"
   },
   {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 13:21:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 13:23:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 13:33:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 13:36:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 13:46:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 13:47:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 13:53:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 13:55:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 13:57:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 13:58:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 13:59:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 14:01:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 14:10:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 14:12:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 14:15:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 14:18:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MALISHETTI AKSHITH",
+    "VirtualId": 4489118079,
+    "CreatedAt": "2026-03-18 14:22:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
     "Student": "MOHAMMED FAIZAANMOINUDDIN",
     "VirtualId": 4513719178,
     "CreatedAt": "2026-02-10 14:19:00",
@@ -53120,6 +54193,36 @@
     "Visual_Level": "F3_A2"
   },
   {
+    "Student": "ABDUL RAHMAN",
+    "VirtualId": 4520595309,
+    "CreatedAt": "2026-03-18 13:58:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "ABDUL RAHMAN",
+    "VirtualId": 4520595309,
+    "CreatedAt": "2026-03-18 13:59:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "ABDUL RAHMAN",
+    "VirtualId": 4520595309,
+    "CreatedAt": "2026-03-18 14:06:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "ABDUL RAHMAN",
+    "VirtualId": 4520595309,
+    "CreatedAt": "2026-03-18 14:14:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "ABDUL RAHMAN",
+    "VirtualId": 4520595309,
+    "CreatedAt": "2026-03-18 14:15:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
     "Student": "KAKARALA PAVAN DEEP",
     "VirtualId": 4522626444,
     "CreatedAt": "2026-02-09 14:00:00",
@@ -53751,6 +54854,42 @@
     "Student": "KAKARALA PAVAN DEEP",
     "VirtualId": 4522626444,
     "CreatedAt": "2026-03-17 11:10:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "KAKARALA PAVAN DEEP",
+    "VirtualId": 4522626444,
+    "CreatedAt": "2026-03-18 15:43:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KAKARALA PAVAN DEEP",
+    "VirtualId": 4522626444,
+    "CreatedAt": "2026-03-18 15:52:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KAKARALA PAVAN DEEP",
+    "VirtualId": 4522626444,
+    "CreatedAt": "2026-03-18 15:53:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KAKARALA PAVAN DEEP",
+    "VirtualId": 4522626444,
+    "CreatedAt": "2026-03-18 15:57:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KAKARALA PAVAN DEEP",
+    "VirtualId": 4522626444,
+    "CreatedAt": "2026-03-18 15:59:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "KAKARALA PAVAN DEEP",
+    "VirtualId": 4522626444,
+    "CreatedAt": "2026-03-18 16:02:00",
     "Visual_Level": "F3_A2"
   },
   {
@@ -56448,6 +57587,108 @@
     "Visual_Level": "F3_A2"
   },
   {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:34:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:37:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:38:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:38:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:39:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:41:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:42:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:45:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:46:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:47:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:48:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:48:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 14:58:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 15:01:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 15:01:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 15:02:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "KOTWAL NUPURANVITHA",
+    "VirtualId": 4614322514,
+    "CreatedAt": "2026-03-18 15:03:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
     "Student": "NAVDEEP GAIKWAD",
     "VirtualId": 4882313971,
     "CreatedAt": "2026-02-09 11:31:00",
@@ -58118,6 +59359,60 @@
     "Visual_Level": "m6"
   },
   {
+    "Student": "NIMMALA NITHYA",
+    "VirtualId": 4937777954,
+    "CreatedAt": "2026-03-18 13:24:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "NIMMALA NITHYA",
+    "VirtualId": 4937777954,
+    "CreatedAt": "2026-03-18 13:26:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "NIMMALA NITHYA",
+    "VirtualId": 4937777954,
+    "CreatedAt": "2026-03-18 13:29:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "NIMMALA NITHYA",
+    "VirtualId": 4937777954,
+    "CreatedAt": "2026-03-18 13:32:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "NIMMALA NITHYA",
+    "VirtualId": 4937777954,
+    "CreatedAt": "2026-03-18 13:36:00",
+    "Visual_Level": "m7"
+  },
+  {
+    "Student": "NIMMALA NITHYA",
+    "VirtualId": 4937777954,
+    "CreatedAt": "2026-03-18 13:42:00",
+    "Visual_Level": "m7"
+  },
+  {
+    "Student": "NIMMALA NITHYA",
+    "VirtualId": 4937777954,
+    "CreatedAt": "2026-03-18 13:46:00",
+    "Visual_Level": "m7"
+  },
+  {
+    "Student": "NIMMALA NITHYA",
+    "VirtualId": 4937777954,
+    "CreatedAt": "2026-03-18 13:54:00",
+    "Visual_Level": "m7"
+  },
+  {
+    "Student": "NIMMALA NITHYA",
+    "VirtualId": 4937777954,
+    "CreatedAt": "2026-03-18 14:00:00",
+    "Visual_Level": "m7"
+  },
+  {
     "Student": "KOLUGURU THANUSH",
     "VirtualId": 5068919357,
     "CreatedAt": "2026-02-09 13:55:00",
@@ -58487,6 +59782,24 @@
     "Student": "KOLUGURU THANUSH",
     "VirtualId": 5068919357,
     "CreatedAt": "2026-03-17 11:00:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "KOLUGURU THANUSH",
+    "VirtualId": 5068919357,
+    "CreatedAt": "2026-03-18 15:52:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "KOLUGURU THANUSH",
+    "VirtualId": 5068919357,
+    "CreatedAt": "2026-03-18 16:06:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "KOLUGURU THANUSH",
+    "VirtualId": 5068919357,
+    "CreatedAt": "2026-03-18 16:15:00",
     "Visual_Level": "m5"
   },
   {
@@ -59289,6 +60602,78 @@
     "Student": "SYEDA SIMRA FATIMA",
     "VirtualId": 5316725368,
     "CreatedAt": "2026-03-16 11:17:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 15:43:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 15:45:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 15:46:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 15:48:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 15:48:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 15:56:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 16:03:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 16:04:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 16:06:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 16:06:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 16:07:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SYEDA SIMRA FATIMA",
+    "VirtualId": 5316725368,
+    "CreatedAt": "2026-03-18 16:14:00",
     "Visual_Level": "F3_A1"
   },
   {
@@ -60962,6 +62347,60 @@
     "Visual_Level": "F3_A1"
   },
   {
+    "Student": "SUNKARA RITHIL",
+    "VirtualId": 5399193167,
+    "CreatedAt": "2026-03-18 10:20:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SUNKARA RITHIL",
+    "VirtualId": 5399193167,
+    "CreatedAt": "2026-03-18 10:20:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SUNKARA RITHIL",
+    "VirtualId": 5399193167,
+    "CreatedAt": "2026-03-18 10:21:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SUNKARA RITHIL",
+    "VirtualId": 5399193167,
+    "CreatedAt": "2026-03-18 10:23:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SUNKARA RITHIL",
+    "VirtualId": 5399193167,
+    "CreatedAt": "2026-03-18 10:23:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SUNKARA RITHIL",
+    "VirtualId": 5399193167,
+    "CreatedAt": "2026-03-18 10:25:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SUNKARA RITHIL",
+    "VirtualId": 5399193167,
+    "CreatedAt": "2026-03-18 10:29:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SUNKARA RITHIL",
+    "VirtualId": 5399193167,
+    "CreatedAt": "2026-03-18 10:30:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SUNKARA RITHIL",
+    "VirtualId": 5399193167,
+    "CreatedAt": "2026-03-18 10:31:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
     "Student": "AMBATI HANSIKA",
     "VirtualId": 5415057195,
     "CreatedAt": "2026-02-10 09:57:00",
@@ -61802,6 +63241,30 @@
     "Visual_Level": "m8"
   },
   {
+    "Student": "AMBATI HANSIKA",
+    "VirtualId": 5415057195,
+    "CreatedAt": "2026-03-18 10:10:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "AMBATI HANSIKA",
+    "VirtualId": 5415057195,
+    "CreatedAt": "2026-03-18 10:17:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "AMBATI HANSIKA",
+    "VirtualId": 5415057195,
+    "CreatedAt": "2026-03-18 10:20:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "AMBATI HANSIKA",
+    "VirtualId": 5415057195,
+    "CreatedAt": "2026-03-18 10:24:00",
+    "Visual_Level": "m8"
+  },
+  {
     "Student": "LUCKY ARADHYA",
     "VirtualId": 5443811941,
     "CreatedAt": "2026-02-10 14:09:00",
@@ -62415,6 +63878,18 @@
     "VirtualId": 5443811941,
     "CreatedAt": "2026-03-17 11:04:00",
     "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LUCKY ARADHYA",
+    "VirtualId": 5443811941,
+    "CreatedAt": "2026-03-18 15:42:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LUCKY ARADHYA",
+    "VirtualId": 5443811941,
+    "CreatedAt": "2026-03-18 16:10:00",
+    "Visual_Level": "F3_A2"
   },
   {
     "Student": "SUMAYA SULTHANA",
@@ -64881,6 +66356,48 @@
     "Student": "DHARAVATH MEGHANA",
     "VirtualId": 5689031890,
     "CreatedAt": "2026-03-17 10:24:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DHARAVATH MEGHANA",
+    "VirtualId": 5689031890,
+    "CreatedAt": "2026-03-18 10:14:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DHARAVATH MEGHANA",
+    "VirtualId": 5689031890,
+    "CreatedAt": "2026-03-18 10:17:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DHARAVATH MEGHANA",
+    "VirtualId": 5689031890,
+    "CreatedAt": "2026-03-18 10:20:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "DHARAVATH MEGHANA",
+    "VirtualId": 5689031890,
+    "CreatedAt": "2026-03-18 10:22:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "DHARAVATH MEGHANA",
+    "VirtualId": 5689031890,
+    "CreatedAt": "2026-03-18 10:24:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DHARAVATH MEGHANA",
+    "VirtualId": 5689031890,
+    "CreatedAt": "2026-03-18 10:27:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "DHARAVATH MEGHANA",
+    "VirtualId": 5689031890,
+    "CreatedAt": "2026-03-18 10:30:00",
     "Visual_Level": "F3_A1"
   },
   {
@@ -72751,6 +74268,42 @@
     "Visual_Level": "F1_A1"
   },
   {
+    "Student": "DASARI JAIDEEP",
+    "VirtualId": 6470716139,
+    "CreatedAt": "2026-03-18 14:56:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "DASARI JAIDEEP",
+    "VirtualId": 6470716139,
+    "CreatedAt": "2026-03-18 14:58:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "DASARI JAIDEEP",
+    "VirtualId": 6470716139,
+    "CreatedAt": "2026-03-18 14:58:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "DASARI JAIDEEP",
+    "VirtualId": 6470716139,
+    "CreatedAt": "2026-03-18 15:00:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "DASARI JAIDEEP",
+    "VirtualId": 6470716139,
+    "CreatedAt": "2026-03-18 15:03:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "DASARI JAIDEEP",
+    "VirtualId": 6470716139,
+    "CreatedAt": "2026-03-18 15:05:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
     "Student": "VADLA NAVYA SRI",
     "VirtualId": 6600673356,
     "CreatedAt": "2026-02-09 10:17:00",
@@ -74483,6 +76036,72 @@
     "Visual_Level": "F3_A1"
   },
   {
+    "Student": "MAHEEN FATIMA",
+    "VirtualId": 6658106399,
+    "CreatedAt": "2026-03-18 15:42:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MAHEEN FATIMA",
+    "VirtualId": 6658106399,
+    "CreatedAt": "2026-03-18 15:43:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MAHEEN FATIMA",
+    "VirtualId": 6658106399,
+    "CreatedAt": "2026-03-18 15:44:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MAHEEN FATIMA",
+    "VirtualId": 6658106399,
+    "CreatedAt": "2026-03-18 15:44:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "MAHEEN FATIMA",
+    "VirtualId": 6658106399,
+    "CreatedAt": "2026-03-18 15:48:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "MAHEEN FATIMA",
+    "VirtualId": 6658106399,
+    "CreatedAt": "2026-03-18 15:58:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MAHEEN FATIMA",
+    "VirtualId": 6658106399,
+    "CreatedAt": "2026-03-18 16:03:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MAHEEN FATIMA",
+    "VirtualId": 6658106399,
+    "CreatedAt": "2026-03-18 16:04:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MAHEEN FATIMA",
+    "VirtualId": 6658106399,
+    "CreatedAt": "2026-03-18 16:06:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "MAHEEN FATIMA",
+    "VirtualId": 6658106399,
+    "CreatedAt": "2026-03-18 16:06:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "MAHEEN FATIMA",
+    "VirtualId": 6658106399,
+    "CreatedAt": "2026-03-18 16:07:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
     "Student": "NEELAM PRANVI",
     "VirtualId": 6717409393,
     "CreatedAt": "2026-02-17 09:34:00",
@@ -74846,6 +76465,42 @@
     "Student": "NEELAM PRANVI",
     "VirtualId": 6717409393,
     "CreatedAt": "2026-03-17 10:28:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "NEELAM PRANVI",
+    "VirtualId": 6717409393,
+    "CreatedAt": "2026-03-18 10:11:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "NEELAM PRANVI",
+    "VirtualId": 6717409393,
+    "CreatedAt": "2026-03-18 10:17:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "NEELAM PRANVI",
+    "VirtualId": 6717409393,
+    "CreatedAt": "2026-03-18 10:20:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "NEELAM PRANVI",
+    "VirtualId": 6717409393,
+    "CreatedAt": "2026-03-18 10:24:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "NEELAM PRANVI",
+    "VirtualId": 6717409393,
+    "CreatedAt": "2026-03-18 10:30:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "NEELAM PRANVI",
+    "VirtualId": 6717409393,
+    "CreatedAt": "2026-03-18 10:34:00",
     "Visual_Level": "m8"
   },
   {
@@ -80051,6 +81706,108 @@
     "Visual_Level": "F3_A1"
   },
   {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:36:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:37:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:37:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:40:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:40:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:42:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:45:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:46:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:47:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:48:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:49:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:56:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:56:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:59:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 14:59:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 15:00:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "PORANDLA ABHINAYA SREE",
+    "VirtualId": 7050775953,
+    "CreatedAt": "2026-03-18 15:03:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
     "Student": "MERUGU HARSHITH SAI",
     "VirtualId": 7192006587,
     "CreatedAt": "2026-02-17 15:22:00"
@@ -82655,6 +84412,48 @@
     "VirtualId": 7397979973,
     "CreatedAt": "2026-03-17 11:05:00",
     "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "THANDA MANASWINI",
+    "VirtualId": 7397979973,
+    "CreatedAt": "2026-03-18 15:45:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "THANDA MANASWINI",
+    "VirtualId": 7397979973,
+    "CreatedAt": "2026-03-18 15:49:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "THANDA MANASWINI",
+    "VirtualId": 7397979973,
+    "CreatedAt": "2026-03-18 15:53:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "THANDA MANASWINI",
+    "VirtualId": 7397979973,
+    "CreatedAt": "2026-03-18 15:55:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "THANDA MANASWINI",
+    "VirtualId": 7397979973,
+    "CreatedAt": "2026-03-18 15:59:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "THANDA MANASWINI",
+    "VirtualId": 7397979973,
+    "CreatedAt": "2026-03-18 16:03:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "THANDA MANASWINI",
+    "VirtualId": 7397979973,
+    "CreatedAt": "2026-03-18 16:05:00",
+    "Visual_Level": "F2_A1"
   },
   {
     "Student": "PARMAGALLA DHANANJAY",
@@ -86227,6 +88026,36 @@
     "Visual_Level": "m4"
   },
   {
+    "Student": "SABA MAHEEN SULTANA",
+    "VirtualId": 7637003433,
+    "CreatedAt": "2026-03-18 13:26:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "SABA MAHEEN SULTANA",
+    "VirtualId": 7637003433,
+    "CreatedAt": "2026-03-18 13:31:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "SABA MAHEEN SULTANA",
+    "VirtualId": 7637003433,
+    "CreatedAt": "2026-03-18 13:37:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "SABA MAHEEN SULTANA",
+    "VirtualId": 7637003433,
+    "CreatedAt": "2026-03-18 13:44:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "SABA MAHEEN SULTANA",
+    "VirtualId": 7637003433,
+    "CreatedAt": "2026-03-18 13:58:00",
+    "Visual_Level": "m4"
+  },
+  {
     "Student": "SHIVANYA BALAJI TELANGE",
     "VirtualId": 7660633713,
     "CreatedAt": "2026-02-10 12:02:00",
@@ -87103,6 +88932,24 @@
     "Visual_Level": "m6"
   },
   {
+    "Student": "SHIVANYA BALAJI TELANGE",
+    "VirtualId": 7660633713,
+    "CreatedAt": "2026-03-18 10:38:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "SHIVANYA BALAJI TELANGE",
+    "VirtualId": 7660633713,
+    "CreatedAt": "2026-03-18 10:44:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "SHIVANYA BALAJI TELANGE",
+    "VirtualId": 7660633713,
+    "CreatedAt": "2026-03-18 10:49:00",
+    "Visual_Level": "m6"
+  },
+  {
     "Student": "DHANGDE KRUTHIKA",
     "VirtualId": 7669678060,
     "CreatedAt": "2026-02-09 12:15:00",
@@ -87910,6 +89757,30 @@
     "Student": "DHANGDE KRUTHIKA",
     "VirtualId": 7669678060,
     "CreatedAt": "2026-03-17 11:29:00",
+    "Visual_Level": "m9"
+  },
+  {
+    "Student": "DHANGDE KRUTHIKA",
+    "VirtualId": 7669678060,
+    "CreatedAt": "2026-03-18 10:53:00",
+    "Visual_Level": "m9"
+  },
+  {
+    "Student": "DHANGDE KRUTHIKA",
+    "VirtualId": 7669678060,
+    "CreatedAt": "2026-03-18 10:58:00",
+    "Visual_Level": "m9"
+  },
+  {
+    "Student": "DHANGDE KRUTHIKA",
+    "VirtualId": 7669678060,
+    "CreatedAt": "2026-03-18 11:02:00",
+    "Visual_Level": "m9"
+  },
+  {
+    "Student": "DHANGDE KRUTHIKA",
+    "VirtualId": 7669678060,
+    "CreatedAt": "2026-03-18 11:07:00",
     "Visual_Level": "m9"
   },
   {
@@ -90546,6 +92417,54 @@
     "VirtualId": 7828117216,
     "CreatedAt": "2026-03-17 11:09:00",
     "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SHAIK ADNAN",
+    "VirtualId": 7828117216,
+    "CreatedAt": "2026-03-18 15:38:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SHAIK ADNAN",
+    "VirtualId": 7828117216,
+    "CreatedAt": "2026-03-18 15:39:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SHAIK ADNAN",
+    "VirtualId": 7828117216,
+    "CreatedAt": "2026-03-18 15:45:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SHAIK ADNAN",
+    "VirtualId": 7828117216,
+    "CreatedAt": "2026-03-18 15:47:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SHAIK ADNAN",
+    "VirtualId": 7828117216,
+    "CreatedAt": "2026-03-18 15:53:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "SHAIK ADNAN",
+    "VirtualId": 7828117216,
+    "CreatedAt": "2026-03-18 15:53:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SHAIK ADNAN",
+    "VirtualId": 7828117216,
+    "CreatedAt": "2026-03-18 15:55:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "SHAIK ADNAN",
+    "VirtualId": 7828117216,
+    "CreatedAt": "2026-03-18 15:57:00",
+    "Visual_Level": "F3_A1"
   },
   {
     "Student": "TANISHQ CH",
@@ -94508,6 +96427,78 @@
     "Visual_Level": "m4"
   },
   {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 10:25:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 10:27:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 10:36:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 10:40:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 10:42:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 10:44:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 10:47:00",
+    "Visual_Level": "m5"
+  },
+  {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 10:57:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 11:01:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 11:03:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 11:05:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "MOHAMMED ABU HURAIRA",
+    "VirtualId": 8147195499,
+    "CreatedAt": "2026-03-18 11:07:00",
+    "Visual_Level": "m6"
+  },
+  {
     "Student": "KANDI JAHNAVI",
     "VirtualId": 8180929242,
     "CreatedAt": "2026-02-09 15:32:00",
@@ -98418,6 +100409,42 @@
     "Visual_Level": "F2_A2"
   },
   {
+    "Student": "GOLAMANDALA HARSHA",
+    "VirtualId": 8397160278,
+    "CreatedAt": "2026-03-18 14:36:00",
+    "Visual_Level": "F2_A2"
+  },
+  {
+    "Student": "GOLAMANDALA HARSHA",
+    "VirtualId": 8397160278,
+    "CreatedAt": "2026-03-18 14:36:00",
+    "Visual_Level": "F2_A2"
+  },
+  {
+    "Student": "GOLAMANDALA HARSHA",
+    "VirtualId": 8397160278,
+    "CreatedAt": "2026-03-18 14:47:00",
+    "Visual_Level": "F2_A2"
+  },
+  {
+    "Student": "GOLAMANDALA HARSHA",
+    "VirtualId": 8397160278,
+    "CreatedAt": "2026-03-18 14:57:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "GOLAMANDALA HARSHA",
+    "VirtualId": 8397160278,
+    "CreatedAt": "2026-03-18 14:57:00",
+    "Visual_Level": "F2_A2"
+  },
+  {
+    "Student": "GOLAMANDALA HARSHA",
+    "VirtualId": 8397160278,
+    "CreatedAt": "2026-03-18 14:57:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
     "Student": "SAINATH KANDAJI BORLEMWAR",
     "VirtualId": 8485933831,
     "CreatedAt": "2026-02-13 10:08:00",
@@ -100318,6 +102345,108 @@
     "Visual_Level": "Pre-B"
   },
   {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:27:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:30:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:33:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:36:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:38:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:40:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:42:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:42:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:44:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:52:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:54:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:56:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 13:58:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 14:02:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 14:04:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 14:04:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "KARATLAPALLY DEVAANSH",
+    "VirtualId": 8566077813,
+    "CreatedAt": "2026-03-18 14:06:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
     "Student": "BODA VARSHINI",
     "VirtualId": 8779781618,
     "CreatedAt": "2026-02-10 09:32:00",
@@ -100765,6 +102894,30 @@
     "Student": "BODA VARSHINI",
     "VirtualId": 8779781618,
     "CreatedAt": "2026-03-17 10:28:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "BODA VARSHINI",
+    "VirtualId": 8779781618,
+    "CreatedAt": "2026-03-18 10:36:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "BODA VARSHINI",
+    "VirtualId": 8779781618,
+    "CreatedAt": "2026-03-18 10:39:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "BODA VARSHINI",
+    "VirtualId": 8779781618,
+    "CreatedAt": "2026-03-18 10:41:00",
+    "Visual_Level": "m6"
+  },
+  {
+    "Student": "BODA VARSHINI",
+    "VirtualId": 8779781618,
+    "CreatedAt": "2026-03-18 10:44:00",
     "Visual_Level": "m6"
   },
   {
@@ -102123,6 +104276,316 @@
     "VirtualId": 8875136714,
     "CreatedAt": "2026-03-17 10:25:00",
     "Visual_Level": "m8"
+  },
+  {
+    "Student": "SIDDAMONI HEMANTHU",
+    "VirtualId": 8875136714,
+    "CreatedAt": "2026-03-18 10:11:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "SIDDAMONI HEMANTHU",
+    "VirtualId": 8875136714,
+    "CreatedAt": "2026-03-18 10:15:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "SIDDAMONI HEMANTHU",
+    "VirtualId": 8875136714,
+    "CreatedAt": "2026-03-18 10:16:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "SIDDAMONI HEMANTHU",
+    "VirtualId": 8875136714,
+    "CreatedAt": "2026-03-18 10:18:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "SIDDAMONI HEMANTHU",
+    "VirtualId": 8875136714,
+    "CreatedAt": "2026-03-18 10:20:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "SIDDAMONI HEMANTHU",
+    "VirtualId": 8875136714,
+    "CreatedAt": "2026-03-18 10:20:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "SIDDAMONI HEMANTHU",
+    "VirtualId": 8875136714,
+    "CreatedAt": "2026-03-18 10:22:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "SIDDAMONI HEMANTHU",
+    "VirtualId": 8875136714,
+    "CreatedAt": "2026-03-18 10:23:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-10 14:00:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-10 14:02:00"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-10 14:02:00"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-10 14:02:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-10 14:08:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-10 14:09:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-10 14:13:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-10 14:14:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-11 09:42:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-11 09:43:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-11 09:49:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-11 09:53:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-11 09:55:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-11 09:58:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-12 09:45:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-12 09:47:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-12 09:50:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-12 09:56:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-12 09:56:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-12 09:59:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-12 10:01:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-13 09:25:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-13 09:27:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-13 09:30:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-13 09:34:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-13 09:41:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-13 09:45:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-13 09:46:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-16 09:14:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-16 09:20:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-16 09:21:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-16 09:27:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-17 10:18:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-17 10:18:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-17 10:20:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-17 10:23:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-17 10:24:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-17 10:26:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-17 10:28:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-18 10:23:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-18 10:30:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-18 10:30:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-18 10:32:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "SAVARIMUTHU MOKSHA",
+    "VirtualId": 8906701671,
+    "CreatedAt": "2026-03-18 10:34:00",
+    "Visual_Level": "F1_A3"
   },
   {
     "Student": "GANDHAM PRANEETH KUMAR",
@@ -106103,6 +108566,60 @@
     "Visual_Level": "m8"
   },
   {
+    "Student": "POOJA KUCHBAL",
+    "VirtualId": 9360961887,
+    "CreatedAt": "2026-03-18 10:27:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "POOJA KUCHBAL",
+    "VirtualId": 9360961887,
+    "CreatedAt": "2026-03-18 10:31:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "POOJA KUCHBAL",
+    "VirtualId": 9360961887,
+    "CreatedAt": "2026-03-18 10:38:00",
+    "Visual_Level": "m8"
+  },
+  {
+    "Student": "POOJA KUCHBAL",
+    "VirtualId": 9360961887,
+    "CreatedAt": "2026-03-18 10:49:00",
+    "Visual_Level": "m9"
+  },
+  {
+    "Student": "POOJA KUCHBAL",
+    "VirtualId": 9360961887,
+    "CreatedAt": "2026-03-18 10:52:00",
+    "Visual_Level": "m9"
+  },
+  {
+    "Student": "POOJA KUCHBAL",
+    "VirtualId": 9360961887,
+    "CreatedAt": "2026-03-18 10:55:00",
+    "Visual_Level": "m9"
+  },
+  {
+    "Student": "POOJA KUCHBAL",
+    "VirtualId": 9360961887,
+    "CreatedAt": "2026-03-18 10:58:00",
+    "Visual_Level": "m9"
+  },
+  {
+    "Student": "POOJA KUCHBAL",
+    "VirtualId": 9360961887,
+    "CreatedAt": "2026-03-18 11:00:00",
+    "Visual_Level": "m9"
+  },
+  {
+    "Student": "POOJA KUCHBAL",
+    "VirtualId": 9360961887,
+    "CreatedAt": "2026-03-18 11:08:00",
+    "Visual_Level": "m9"
+  },
+  {
     "Student": "MANDA MANISH",
     "VirtualId": 9449855397,
     "CreatedAt": "2026-02-09 12:21:00",
@@ -108388,6 +110905,114 @@
     "Visual_Level": "m4"
   },
   {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:26:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:28:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:31:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:33:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:37:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:39:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:40:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:42:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:44:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:53:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:55:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:57:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:58:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 10:59:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 11:02:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 11:04:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 11:08:00",
+    "Visual_Level": "m4"
+  },
+  {
+    "Student": "MANDA MANISH",
+    "VirtualId": 9449855397,
+    "CreatedAt": "2026-03-18 11:10:00",
+    "Visual_Level": "m4"
+  },
+  {
     "Student": "MOHAMMED FAIZAN",
     "VirtualId": 9601880126,
     "CreatedAt": "2026-02-10 15:07:00",
@@ -108605,6 +111230,30 @@
     "Student": "MOHAMMED FAIZAN",
     "VirtualId": 9601880126,
     "CreatedAt": "2026-03-17 10:03:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "MOHAMMED FAIZAN",
+    "VirtualId": 9601880126,
+    "CreatedAt": "2026-03-18 14:43:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "MOHAMMED FAIZAN",
+    "VirtualId": 9601880126,
+    "CreatedAt": "2026-03-18 14:53:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "MOHAMMED FAIZAN",
+    "VirtualId": 9601880126,
+    "CreatedAt": "2026-03-18 14:55:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "MOHAMMED FAIZAN",
+    "VirtualId": 9601880126,
+    "CreatedAt": "2026-03-18 14:58:00",
     "Visual_Level": "F1_A3"
   },
   {
@@ -109282,6 +111931,30 @@
     "VirtualId": 9724773138,
     "CreatedAt": "2026-03-09 11:32:00",
     "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "AYRA FATIMA",
+    "VirtualId": 9724773138,
+    "CreatedAt": "2026-03-18 13:48:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "AYRA FATIMA",
+    "VirtualId": 9724773138,
+    "CreatedAt": "2026-03-18 13:50:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "AYRA FATIMA",
+    "VirtualId": 9724773138,
+    "CreatedAt": "2026-03-18 13:55:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "AYRA FATIMA",
+    "VirtualId": 9724773138,
+    "CreatedAt": "2026-03-18 13:56:00",
+    "Visual_Level": "F3_A2"
   },
   {
     "Student": "MALLAPA BENNY HINN",
@@ -111764,6 +114437,773 @@
     "Student": "GODISHALA MANOJ",
     "VirtualId": 9892434819,
     "CreatedAt": "2026-03-17 10:41:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:06:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:07:00"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:07:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:10:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:35:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:37:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:37:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:45:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:46:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:49:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:52:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:52:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:53:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:55:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:56:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:57:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 15:58:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 16:00:00",
+    "Visual_Level": "F1_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-09 16:05:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:00:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:01:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:02:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:03:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:04:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:05:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:08:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:09:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:10:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:12:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:13:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:15:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-10 12:30:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:26:00",
+    "Visual_Level": "F1_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:26:00",
+    "Visual_Level": "Pre-B"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:27:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:28:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:29:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:30:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:32:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:33:00",
+    "Visual_Level": "F1_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:36:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:39:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:47:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:50:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:52:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-11 11:53:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 09:45:00",
+    "Visual_Level": "F2_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 09:50:00",
+    "Visual_Level": "F2_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 09:51:00",
+    "Visual_Level": "F2_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 09:52:00",
+    "Visual_Level": "F2_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 09:55:00",
+    "Visual_Level": "F2_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 09:57:00",
+    "Visual_Level": "F2_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 09:59:00",
+    "Visual_Level": "F2_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:01:00",
+    "Visual_Level": "F2_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:05:00",
+    "Visual_Level": "F2_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:07:00",
+    "Visual_Level": "F2_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:09:00",
+    "Visual_Level": "F2_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:12:00",
+    "Visual_Level": "F2_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:14:00",
+    "Visual_Level": "F2_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:16:00",
+    "Visual_Level": "F2_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:18:00",
+    "Visual_Level": "F2_A3"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:21:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:29:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:39:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:41:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:43:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:43:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-12 10:47:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:17:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:18:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:19:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:19:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:20:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:23:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:27:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:28:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:30:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:30:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:34:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:42:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:51:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:52:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:53:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:53:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:55:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 11:57:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 12:03:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 12:04:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 12:05:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 12:05:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 12:06:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-13 12:13:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:32:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:33:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:33:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:35:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:36:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:40:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:47:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:48:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:49:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:50:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:50:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:53:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:58:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-16 09:59:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-17 11:18:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-17 11:19:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-17 11:20:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-17 11:22:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:26:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:26:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:27:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:28:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:29:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:30:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:34:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:36:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:38:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:39:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:41:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:44:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:47:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:47:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:48:00",
+    "Visual_Level": "F3_A1"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:49:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 10:51:00",
+    "Visual_Level": "F3_A2"
+  },
+  {
+    "Student": "LAXMI KUMARI",
+    "VirtualId": 9936839001,
+    "CreatedAt": "2026-03-18 11:11:00",
     "Visual_Level": "F3_A1"
   },
   {
